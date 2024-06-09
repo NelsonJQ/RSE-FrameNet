@@ -1,0 +1,13 @@
+Explication = 
+
+Kering a évalué ses pressions sur la nature et l'état de la biodiversité dans le cadre du pilote SBTN, aligné avec les recommandations Science Based Targets for Nature (Version 1). L'entreprise a identifié trois facteurs comme proxy des services écosystémiques rendus : la richesse des espèces, la biomasse aérienne et le carbone organique du sol. Cependant, il n'y a pas de mention spécifique dans le document d'enregistrement universel 2023 de Kering sur des projets axés sur la restauration de l'écosystème et la protection des écosystèmes.
+
+Données_extraites = ('hectaresRestored': None)
+
+Answer_context=[
+
+"Cet exercice a été effectué à l’échelle du bassin hydrologique pour les opérations directes du Groupe (bureaux, boutiques, sites industriels, entrepôts et tanneries), et à l’échelle nationale pour les impacts liés à l’amont de la chaîne de valeur selon les étapes présentées ci-après." - Page 237,
+
+"La Taxonomie verte vise à identifier les activités économiques répondant à au moins l’un des six objectifs environnementaux suivants… La mise en application du règlement « Taxonomie verte » est progressive depuis la clôture 2021. Pour l’exercice 2023, les activités éligibles sont étendues aux six objectifs environnementaux." - Page 5.6,
+
+"Le Groupe obtient le score de A au CDP Climate 2023 et figure ainsi toujours parmi la Climate A-list." - Page 4 Développement durable

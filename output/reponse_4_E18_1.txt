@@ -1,0 +1,12 @@
+Explication:
+
+Les émissions des polluants suivants ont été déclarées par l'entreprise Kering au cours de la période de reporting 2023. Selon les données fournies, le groupe a émis 13 185 tonnes d'emballages en papier et carton, ce qui représente une diminution de 33% par rapport à l'année précédente (19 640 tonnes). Le plastique a été utilisé pour 4% des emballages, mais 65% de ces émissions ont été composés de matériaux recyclés ou biosourcés.
+
+Cependant, il n'y a pas de données sur les émissions d'ozone d'azote (NOx) déclarées par l'entreprise Kering. La question E18 concerne spécifiquement les émissions de polluants et non les emballages. Nous ne pouvons donc pas fournir de réponse précise à cette question.
+
+Données extraites:
+
+'tonsPollutants': None (aucune donnée disponible sur les émissions de NOx)
+
+Answer context:
+[] (aucune citation littéraire n'est disponible pour répondre à cette question)

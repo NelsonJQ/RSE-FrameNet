@@ -1,0 +1,9 @@
+Explication = Kering a adopté plusieurs mesures pour prévenir et atténuer les risques environnementaux, notamment en ce qui concerne la traçabilité des matières premières. Selon le rapport annuel 2023, l'entreprise a mis en place un système de déclaration des fournisseurs, complété par des protocoles spécifiques tels que la certification ICEC pour le cuir, et des audits pour vérifier la traçabilité des matières premières.
+
+Kering s'est également engagé à atteindre 100% de traçabilité au moins jusqu'au pays d'origine pour certaines matières premières (comme spécifié dans les Kering Standards) et a développé une plateforme numérique dédiée aux employés, The Kering Planet, pour partager des actualités et projets liés au développement durable.
+
+En ce qui concerne l'action climatique, Kering a organisé des événements internes tels que les ateliers "Fresque du Climat" pour sensibiliser ses employés aux causes et au processus du changement climatique. De plus, l'entreprise a créé un réseau de 400 ambassadeurs dans les magasins de Balenciaga pour réduire l'impact des sites de vente et mieux sensibiliser sur le sujet en interne.
+
+Données_extraites = ("preventionImpact": "Formation interne / renforcement des capacités pour les salariés")
+
+Answer_context = ["P. 243", "P. 243-244", "P. 245"]

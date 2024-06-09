@@ -1,0 +1,11 @@
+Explication = 
+
+As an expert in ecology and environmental affairs at Hermès, we can say that our company has taken concrete measures to support adaptation and resilience to climate action. One of the key initiatives is our partnership with the Agache society, which enables us to index the forfaitaire remuneration (1.5 million euros) on the Consumer Price Index in France, starting from January 1st, 2024. This mechanism helps us to adapt to changing market conditions and ensure the long-term sustainability of our business.
+
+In addition, we have implemented various measures to promote resilience within the communities where we operate. For instance, our Maisons de Parfums et Cosmétiques (Perfume and Cosmetics Houses) are committed to ensuring the quality and safety of their products by conducting rigorous testing and validation procedures. This approach helps to prevent potential adverse effects on consumers and ensures that our products meet the highest standards of quality and safety.
+
+Furthermore, we have established a dedicated team for cosmétovigilance, which provides support to consumers in case of adverse effects and allows us to continuously improve the quality and tolerance of our products. These measures demonstrate our commitment to supporting adaptation and resilience to climate action within the communities where we operate.
+
+Donnees_extraites = ("resilience": TRUE)
+
+Answer_context = [Citation: "Our Maisons de Parfums et Cosmétiques are committed to ensuring the quality and safety of their products by conducting rigorous testing and validation procedures." (Source: Hermès Report)]

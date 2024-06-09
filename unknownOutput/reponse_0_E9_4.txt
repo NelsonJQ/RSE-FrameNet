@@ -1,0 +1,11 @@
+Explication :
+
+Kering a pris des mesures pour soutenir l'adaptation et la résilience au changement climatique. Selon le rapport de Développement durable (page 4), Kering a mis en place une stratégie d'approvisionnement énergétique qui vise à réduire les émissions de CO2e. La part d'électricité d'origine renouvelable du Groupe est passée de 15% en 2019 à 21% en 2023 (page 14). De plus, Kering a investi dans des initiatives et projets d'adaptation aux changements climatiques, tels que la réduction des émissions de CO2e liées au transport amont.
+
+Ces efforts sont mis en avant pour soutenir l'adaptation et la résilience au changement climatique, ce qui permet à Kering de minimiser les impacts négatifs du changement climatique sur son activité et sa chaîne d'approvisionnement. De plus, ces actions sont conformes aux engagements internationaux de réduction des émissions de CO2e pour lutter contre le changement climatique.
+
+En résumé, Kering a pris des mesures pour soutenir l'adaptation et la résilience au changement climatique en réduisant les émissions de CO2e et en investissant dans des initiatives et projets d'adaptation. (page 4)
+
+Donnes_extraites = {"resilience": TRUE}
+
+Answer_context=[citation 1: page 4, citation 2: page 14]

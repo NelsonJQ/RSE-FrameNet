@@ -1,0 +1,10 @@
+Explication:
+L'entreprise Hermès a mis en place un Code de conduite qui vise à protéger les droits du travail et la responsabilité sociale. Selon ce code, les partenaires du groupe sont tenus de respecter les principes de l'engagement social et environnemental (page 2). Le code prévoit également que les partenaires veillent à ce que leurs sous-traitants ou fournisseurs respectent ces mêmes principes (page 3).
+
+Données extraites:
+engagementLabourRightsStakeholders: 'Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question'
+
+Answer_context:
+[Citation littéraire de la source utilisée pour répondre : Hermès, Code de conduite]
+
+Note: Le code de conduite Hermès n'est pas spécifiquement lié à l'engagement envers les parties prenantes affectées par les questions relatives aux droits du travail. Cependant, il prévoit que les partenaires du groupe respectent les principes de l'engagement social et environnemental qui incluent la protection des droits du travail.

@@ -1,0 +1,11 @@
+Explication =
+
+LVMH a agi pour soutenir l'adaptation et la résilience au climatique en mettant en place des empreintes eau et biodiversité mises à jour chaque année, avec les méthodologies les plus avancées (partie 3). Ces empreintes permettent d'identifier et de quantifier les impacts eau et biodiversité les plus significatifs sur l'ensemble de la chaîne de valeur du Groupe. De plus, le Groupe participe aux travaux de la TNFD pour développer un cadre pour identifier et mesurer les dépendances et impacts financiers des activités sur la nature et la biodiversité (partie 3).
+
+Les actions entreprises par LVMH pour accroître la résilience de ses chaînes d'approvisionnement sont nombreuses. D'une part, le Groupe soutient l'émergence de réseaux de collaborateurs qui ne cessent de grandir à travers le monde (partie 1). Deuxièmement, LVMH met en œuvre un processus de contrôle et d'audit qualité exigeant à chaque étape de la production pour sélectionner ses sous-traitants selon les critères les plus élevés en termes de qualité des produits et des modes de production (partie 3).
+
+Enfin, LVMH met en place un processus de validation strict des investissements publicitaires pour garantir que les messages diffusés sont alignés avec ses valeurs et engagements en matière d'environnement (partie 3). Il est donc évident que l'organisation a agi pour soutenir l'adaptation et la résilience au climatique.
+
+Données extraites = ("resilience": TRUE)
+
+Answer context = [citation 1: "Les empreintes eau et biodiversité permettent d'identifier et de quantifier les impacts eau et biodiversité les plus significatifs sur l'ensemble de la chaîne de valeur du Groupe.", citation 2: "LVMH met en œuvre un processus de contrôle et d'audit qualité exigeant à chaque étape de la production pour sélectionner ses sous-traitants selon les critères les plus élevés..."]

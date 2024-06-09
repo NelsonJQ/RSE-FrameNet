@@ -1,0 +1,5 @@
+Explication = Kering évalue les progrès accomplis dans la prévention/atténuation des risques/impacts associés aux déchets en fixant des cibles/objectifs annuels et en suivant leurs progrès au fil du temps. Selon l'article, le groupe a mis en place de nombreuses initiatives et partenariats avec des écoles, associations ou filières de recyclage pour collecter les déchets textiles et les chutes des processus de production et des défilés de mode, en vue de leur recyclage ou de leur réutilisation. Le taux de recyclage des déchets a atteint 67 % en 2023.
+
+Données_extraites = ("evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (uniquement programmes internes)")
+
+Answer_context = [1. Les bureaux de Kering, Balenciaga et Saint Laurent collectent et recyclent les papiers et emballages. 2. Kering a vérifié l'existence de compteurs d'eau ou de solutions de pilotage de la consommation d'eau pour aligner ses investissements avec les seuils fixés par la Commission européenne.]

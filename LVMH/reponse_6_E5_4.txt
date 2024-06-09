@@ -1,0 +1,5 @@
+Explication = Hermès a mis en place un système de traçabilité dédié pour assurer la responsabilité dans l'entièreté de la chaîne de valeur amont. Selon le rapport, l'entreprise vise à atteindre 100% des chaînes d'approvisionnement stratégiques avec un système de traçabilité dédié en 2030 (page 4). Cela signifie que l'entreprise a déjà mis en place des solutions pour plusieurs problèmes environnementaux, notamment les forêts et la biodiversité.
+
+Données extraites = {"fournirSolutionImpact": "Oui, recours fourni/activé"}
+
+Answer context = [Citation 1: "l'ensemble complet des documents et mécanismes utilisés pour vérifier la traçabilité entre l'unité de production vérifiée et l'allégation sur le produit final" (page ?), Citation 2: "l'entreprise vise à atteindre 100% des chaînes d'approvisionnement stratégiques avec un système de traçabilité dédié en 2030" (page 4)]

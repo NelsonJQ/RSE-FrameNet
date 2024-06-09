@@ -1,0 +1,16 @@
+Explication:
+
+LVMH a mis en place des solutions pour réduire son impact environnemental lié à l'action climatique. Pour commencer, le groupe a défini des objectifs de réduction des émissions de gaz à effet de serre couvrant les scopes 1, 2 et 3 approuvés par l'initiative Science Based Targets en 2021 (p. 14). Il a également élaboré un plan d'action pour réduire les consommations d'énergie des sites et boutiques, ainsi que les transports moins impactant (p. 15).
+
+En ce qui concerne la viticulture, LVMH a mis en place une stratégie d'adaptation au changement climatique qui vise à modifier les dates de vendange, à évoluer les modes de conduite des vignes et à utiliser l'irrigation dans certains pays (p. 16). Le groupe est également engagé dans la préservation d'écosystèmes à haute valeur ajoutée en dehors de ses filières d'approvisionnement, tels que le bassin amazonien.
+
+Enfin, LVMH a lancé un Fonds Carbone pour soutenir le financement d'actions permettant la réduction des émissions de gaz à effet de serre (p. 17).
+
+Données extraites:
+
+fournirSolutionImpact: Oui, recours fourni/activé
+
+Answer context:
+[citation littéraire 1 : p. 14]
+[citation littéraire 2 : p. 15]
+[citation littéraire 3 : p. 17]

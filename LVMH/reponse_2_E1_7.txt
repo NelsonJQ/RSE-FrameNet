@@ -1,0 +1,13 @@
+Explication:
+
+L'entreprise Hermès a élaboré une politique environnementale forte. Selon le texte, la Direction du Développement Environnement accompagne le Groupe et ses Maisons pour une performance environnementale d'excellence alignée avec les nouveaux objectifs du programme environnemental LIFE 360. Ce programme couvre quatre piliers stratégiques : la circularité créative, la traçabilité et la transparence, le climat et la biodiversité.
+
+La Direction du Développement Environnement assure également que les activités du Groupe soient conformes aux lois et réglementations applicables en matière d'environnement. Le texte ne précise pas explicitement si une politique environnementale a été élaborée pour l'énergie et les ressources, mais il est probable que cela fait partie de la stratégie globale du Groupe.
+
+Données extraites:
+
+("politiqueEnvironnementale": "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer context:
+
+[Citation 1 : Texte original]

@@ -1,0 +1,5 @@
+Explication = Kering a fourni un recours lorsqu'elle a causé ou contribué à un impact négatif relatif aux questions de droits du travail. Selon le chapitre 4 de la Déclaration de développement durable, l'entreprise a formalisé ses attendus sur les conditions permettant un recrutement responsable (p. 3). Elle attend que ses fournisseurs s'assurent que leurs employés n'aient pas eu à payer des frais de recrutement ou effectuer un dépôt d'argent pour accéder à l'emploi, et qu'ils remboursent le cas échéant une telle dépense (p. 3). De plus, Kering a souhaité formaliser ses attendus sur les défenseurs des droits de l'homme et des populations autochtones (p. 3).
+
+Donnes_extraites = ('responseLabourRightIncident': "Impact négatif OUI et recours de réponse OUI")
+
+Answer_context = [Citation : "Kering a formalisé ses attendus sur les conditions permettant un recrutement responsable." - p. 3, Citation : "L'entreprise attend que ses fournisseurs s'assurent que leurs employés n'aient pas eu à payer des frais de recrutement ou effectuer un dépôt d'argent pour accéder à l'emploi, et qu'ils remboursent le cas échéant une telle dépense." - p. 3]

@@ -1,0 +1,5 @@
+Explication = L'extraction de données n'a pas été réalisée pour le taux d'incidents de l'entreprise, car il s'agit d'un sujet lié à la sécurité et à la santé au travail, qui ne sont pas mentionnés dans ce document.
+
+Donnes_extraites = {'InjuresPerWorker': None}
+
+Answer_context = []

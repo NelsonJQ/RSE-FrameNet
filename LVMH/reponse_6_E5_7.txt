@@ -1,0 +1,6 @@
+Explication: According to the Hermès Group's reporting, the company has not provided or allowed the implementation of a solution for all environmental problems related to energy and resources during the reporting period. However, it is worth noting that the group has set objectives for reducing its environmental impact, including a commitment to reach net-zero emissions by 2025 (p. 12).
+
+Données_extraites: {'fournirSolutionImpact': 'Aucun recours fourni/activé'}
+
+Answer_context:
+- Hermès Group's reporting, page 12

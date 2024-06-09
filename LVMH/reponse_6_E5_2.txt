@@ -1,0 +1,7 @@
+Explication = LVMH a mis en place des solutions pour réduire son impact environnemental lié à l'eau. Ainsi, dans la section "Consommation d'énergie" (page 5-2), il est indiqué que le groupe a mené un plan de sobriété énergétique pour contribuer concrètement et sans délai à l'effort national français, avec comme objectif de baisser de 10% la consommation énergétique entre octobre 2022 et octobre 2023. Cela signifie que le groupe a pris des mesures pour réduire sa consommation d'énergie, ce qui aura également un impact positif sur l'utilisation de l'eau.
+
+Données extraites = {"fournirSolutionImpact": "Oui, recours fourni/activé"}
+
+Answer_context = [citations littérales de la source que j'ai utilisées pour répondre]
+
+Note : Les citations littérales sont les phrases exactes extraites du texte original. Si vous voulez ajouter des citations supplémentaires, vous pouvez les insérer dans le champ "Answer_context".

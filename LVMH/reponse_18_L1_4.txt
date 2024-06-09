@@ -1,0 +1,9 @@
+Explication:
+
+According to the Hermès Group's Governance Report (page 14), the company has not explicitly stated a policy on labor rights. However, it is mentioned that the Group has implemented various initiatives and programs aimed at promoting social responsibility, including ensuring decent working conditions for its employees. Additionally, the report highlights the importance of respecting human rights and promoting sustainable development.
+
+Données extraites: {'engagementLabourRights': 'Non'}
+
+Answer context:
+[Citation 1: "The Hermès Group has implemented various initiatives and programs aimed at promoting social responsibility..."] (page 14)
+[Citation 2: "The Group is committed to respecting human rights and promoting sustainable development..."] (page 15)

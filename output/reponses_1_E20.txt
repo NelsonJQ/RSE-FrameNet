@@ -1,0 +1,11 @@
+Explication:
+
+According to the document, Kering did not provide specific information on the percentage of hazardous waste generated during the reporting period. However, it mentioned that some sites reported using renewable energy sources and that 604 production sites shared data on their water consumption.
+
+Donnees_éxtraites:
+
+('tonsDangerousWaste': None)
+
+Answer_context: [Cité page 256 du document d'enregistrement universel]
+
+Note: Since there is no specific information provided in the document, I did not provide a numerical value for "tonDangerousWaste".

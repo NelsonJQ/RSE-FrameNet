@@ -1,0 +1,9 @@
+Explication = Kering, comme entreprise de luxe, met en place des actions pour favoriser une meilleure articulation entre la vie personnelle et professionnelle de ses employés. Selon le rapport annuel de Kering, l'une des mesures mises en place est la politique de parentalité forte, qui vise à aider les employés lors d'événements importants de leur vie. Cette politique globale a été déployée dans 50 pays du Groupe.
+
+Selon les données extraites, il n'y a pas d'information disponible sur le nombre d'accidents au travail ou la fréquence des blessures par heure travaillée.
+
+Donnees_extraites = {'InjuresPerWorkedHour': None}
+
+Answer_context = [citations littérales de la source que j'ai utilisées pour répondre, citation2, citation3]
+
+Note : Les données extraites sont inexistantes car il n'y a pas d'information disponible sur le nombre d'accidents au travail ou la fréquence des blessures par heure travaillée dans le rapport annuel de Kering.

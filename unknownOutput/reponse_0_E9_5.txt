@@ -1,0 +1,10 @@
+Explication:
+
+Kering a mis en place des travaux pour évaluer l'impact environnemental de l'entreprise et formaliser ses attentes sur ce sujet. Les travailleurs migrants ont été identifiés comme un groupe clé à protéger, avec une référence aux principes de Dhaka. L'entreprise a également mis en place des procédures pour collecter, compiler, traiter et contrôler les informations relatives à l'impact environnemental.
+
+Cependant, la question ne concerne pas spécifiquement l'adaptation et la résilience au changement climatique. Les travaux menés par Kering ont porté sur l'évaluation de l'impact environnemental et la formalisation des attentes en matière d'environnement.
+
+Données extraites: ("resilience": FALSE)
+
+Answer context:
+[Citations littérales de la source utilisée pour répondre, par exemple : "Nous avons planifié et effectué nos travaux afin de nous permettre de formuler une conclusion d'assurance modérée sur les informations suivantes..." (p. 1)]

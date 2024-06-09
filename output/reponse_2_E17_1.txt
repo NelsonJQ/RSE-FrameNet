@@ -1,0 +1,16 @@
+Explication:
+
+Kering soutient et met en œuvre des projets axés sur la restauration de l'écosystème et la protection des écosystèmes. Le groupe a défini un objectif pour atteindre un million d'hectares d'agriculture régénératrice par le biais du Kering Regenerative Fund for Nature, qui vise à soutenir la transition vers une agriculture régénératrice auprès de producteurs de matières premières clés. Les projets d'agriculture régénératrice soutiennent la résilience climatique et améliorent la santé des sols, leur capacité à séquestrer le carbone, à retenir l'eau et à soutenir la biodiversité (p. 237).
+
+Kering a également évalué ses pressions sur la nature, l'état de la nature lié à ces pressions, et l'état de la biodiversité, en alignement avec la Version 1 des recommandations Science Based Targets for Nature. Cet exercice a été effectué à l'échelle du bassin hydrologique pour les opérations directes du Groupe (bureaux, boutiques, sites industriels, entrepôts et tanneries) et concernant sa chaîne amont, Kering travaille notamment sur les axes suivants afin de sécuriser ses approvisionnements à long terme et soutenir les solutions fondées sur la nature.
+
+Enfin, le groupe a mis en place des Kering Standards auprès des fournisseurs pour viser 100% de matières premières alignées avec ces Standards en 2025, notamment les certifications tierces recommandées dans les chaînes d'approvisionnement du Groupe qui garantissent des pratiques agricoles à faible impact et plus forte résilience, telles que l'agriculture biologique.
+
+Donnees_extraites:
+
+* heactaresRestored: 0 (aucun hectare n'a été restauré explicitement)
+
+Answer_context:
+[citation1: Kering Regenerative Fund for Nature (p. 237)]
+[citation2: évaluation des pressions sur la nature, l'état de la nature lié à ces pressions, et l'état de la biodiversité]
+[citation3: Kering Standards pour les fournisseurs]

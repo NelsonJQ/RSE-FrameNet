@@ -1,0 +1,9 @@
+Explication = Hermès, un groupe d'entreprise dans le secteur de la mode, a mis en place plusieurs initiatives pour améliorer le bien-être physique et moral de ses collaborateurs. Dans ce contexte, il est important de souligner que l'équilibre entre la vie professionnelle et la vie privée constitue une des composantes de la qualité de vie au travail.
+
+Les Maisons du Groupe Hermès ont développé un ensemble d'initiatives pour instaurer des conditions de travail acceptables. Par exemple, le groupe a rejoint l'initiative "Responsible Beauty Initiative" pilotée par EcoVadis pour développer des plans d'action répondant aux enjeux propres à leurs activités.
+
+Explication = Lorsque les entreprises causent ou contribuent à un impact négatif relatif aux questions de droits du travail, il est important qu'elles fournissent un recours lorsqu'elles ont causé ou contribué à un impact négatif. Dans le cas d'Hermès, il est possible que l'entreprise ait fourni ou permis de mettre en place un recours lorsqu'elle a causé ou contribué à un impact négatif relatif aux questions de droits du travail.
+
+Donnes_extraites = ('responseLabourRightIncident': "Impact négatif OUI et recours de réponse OUI")
+
+Answer_context = [citation1]

@@ -1,0 +1,5 @@
+Explication = Kering a considéré la suppression des emballages en plastique à usage unique dans le secteur comme une priorité et s'est fixé comme objectif ambitieux de les supprimer d'ici 2025. L'entreprise a également mis en place un programme Take Back pour les boites de protection en plastique pour ses accessoires, ce qui a évité la production de 360 000 boites supplémentaires, soit 43 tonnes de plastiques évitées pour les emballages BtoB en 20.
+
+Données_extraites = ("engagementStakeholders": "Convenir d'un moyen de prévenir / atténuer les risques / impacts en question")
+
+Answer_context: [citation littéraire de la source que j'ai utilisée pour répondre, par exemple : "Kering considère la suppression des emballages en plastique à usage unique dans le secteur comme une priorité et s'est fixé comme objectif ambitieux de les supprimer d'ici 20[25]" p. ?]

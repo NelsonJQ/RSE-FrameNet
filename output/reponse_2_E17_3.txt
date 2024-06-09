@@ -1,0 +1,9 @@
+Explication = Kering soutient des projets axés sur la restauration de l'écosystème et la protection des écosystèmes. Selon le document interne Product Restricted Substance List (PRSL) & Product Safety Requirements, la stratégie d'optimisation environnementale du Groupe est basée sur la définition de sa feuille de route en termes de stratégie d'approvisionnement, de choix de matières ou encore de procédés de production et de transformation. (Page 5)
+
+Kering encourage également les employés à s'engager dans des activités de sensibilisation et de formation sur le sujet du développement durable, notamment au travers de la création d'un réseau de 400 ambassadeurs dans les magasins de Balenciaga pour réduire l'impact des sites de vente et mieux sensibiliser sur le sujet en interne. (Page 6)
+
+Enfin, Kering a identifié certaines activités économiques du Groupe qui répondent aux six objectifs environnementaux de la Taxonomie verte, notamment la réparation, remise en état et reconditionnement de produits pour promouvoir la transition vers une économie circulaire. (Page 5.6)
+
+Données_extraites = ('hectaresRestored': None) (aucune donnée spécifique n'est fournie sur le nombre d'hectares restaurés)
+
+Answer_context = ['Selon le document interne Product Restricted Substance List (PRSL) & Product Safety Requirements.', 'Kering encourage également les employers à s\'engager dans des activités de sensibilisation et de formation sur le sujet du développement durable, notamment au travers de la création d\'un réseau de 400 ambassadeurs dans les magasins de Balenciaga pour réduire l\'impact des sites de vente et mieux sensibiliser sur le sujet en interne.', 'Enfin, Kering a identifié certaines activités économiques du Groupe qui répondent aux six objectifs environnementaux de la Taxonomie verte, notamment la réparation, remise en état et reconditionnement de produits pour promouvoir la transition vers une économie circulaire.']

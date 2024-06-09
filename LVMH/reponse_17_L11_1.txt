@@ -1,0 +1,7 @@
+Explication: According to the report, Hermès has taken steps to ensure responsible labor practices and address potential negative impacts on workers' rights. The company has joined initiatives such as Responsible Beauty Initiative and Responsible Mica Initiative, which aim to promote fair labor practices and reduce the risk of adverse effects on workers (page 3). Additionally, Hermès has conducted audits to ensure that its suppliers comply with labor standards (page 4).
+
+Données extraites: ('responseLabourRightIncident': "Impact négatif OUI et recours de réponse OUI")
+
+Answer context: [1]
+
+Note: The report does not explicitly state whether the company has taken specific measures to address negative impacts on workers' rights. However, it highlights Hermès' commitment to responsible labor practices and its involvement in initiatives aimed at promoting fair labor standards.

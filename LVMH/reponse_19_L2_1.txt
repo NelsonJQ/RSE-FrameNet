@@ -1,0 +1,5 @@
+Explication = LVMH a manifesté une volonté d'agir comme entreprise responsable et a adhéré à plusieurs référentiels internationaux liés aux droits du travail, tels que la Déclaration Universelle des Droits de l'Homme, les Pactes internationaux relatifs aux droits civils et politiques, économiques, sociaux et culturels, ainsi que les 17 objectifs du développement durable élaborés par les Nations Unies. Cependant, il n'est pas clair si l'entreprise a effectivement engagé avec les parties prenantes affectées ou leurs représentants légitimes en ce qui concerne les questions relatives aux droits du travail.
+
+Données extraites = ('engagementLabourRightsStakeholders': "Aucun engagement sur ce sujet")
+
+Answer context = [Citation 2.1 Instruments internationaux, Citation 2.1 Les Pactes internationaux relatifs aux droits civils et politiques, économiques, sociaux et culturels]

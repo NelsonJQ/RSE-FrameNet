@@ -1,0 +1,11 @@
+Explication  = 
+
+LVMH a adopté plusieurs mesures pour prévenir et atténuer les risques et impacts environnementaux liés à son activité, notamment au cours de la période de reporting. Parmi ces mesures, il est important de noter l'engagement visant à éviter et réduire les impacts sur la biodiversité, en particulier l'exclusion des déforestation et conversions d'écosystèmes naturels dans les opérations et chaînes d'approvisionnement d'ici 2025 (p. 3.1.1.1). Cette mesure vise à réduire les empreintes environnementales de la chaîne de valeur LVMH, en particulier celles liées au bois et aux dérivés du bois, ainsi que les dérivés d'huile de palme et le cuir.
+
+LVMH a également mis en place des plateformes pour faciliter la réparation et le recyclage des textiles. Par exemple, l'atelier Retouches du Bon Marché est agréé Refashion depuis son lancement en novembre 2023, ce qui permet aux clients de réparer leurs vêtements. De même, Loewe a dédié un magasin à la réparation (ReCraft à Osaka). En outre, les Maisons de Parfums et Cosmétiques, et Sephora utilisent en France la plateforme CEDRE pour trier, recycler et valoriser l'ensemble des matières et produits issus de la fabrication, du conditionnement, de la distribution et de la vente des parfums et des produits cosmétiques.
+
+Enfin, LVMH a également pris des mesures pour prévenir les impacts environnementaux liés aux océans. Cependant, il n'y a pas de spécification dans le rapport concernant ces mesures en particulier.
+
+Donnees_extraites  = {"preventionImpact": "Formation interne / renforcement des capacités pour les salariés"}
+
+Answer_context=[Citation littéraire de la source utilisée pour répondre, par exemple : [1], [2], [3]]

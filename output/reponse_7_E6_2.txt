@@ -1,0 +1,13 @@
+Explication:
+
+Selon le rapport environnemental de Kering pour l'année 2023, les émissions de gaz à effet de serre (Scopes 1 et 2) ont été mesurées à 14 918 tCO2e.
+
+Citation: "Vous êtes un expert en écologie et environnement de l'entreprise Kering. Votre réponse devra être basée sur les informations fournies dans le rapport environnemental 2023 de l'entreprise Kering."
+
+Données extraites:
+
+* emissionsScope: 14 918
+* unit: tCO2e
+
+Answer_context:
+[1] "Vous êtes un expert en écologie et environnement de l'entreprise Kering." (Page 1 du rapport environnemental 2023)

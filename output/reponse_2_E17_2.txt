@@ -1,0 +1,11 @@
+Explication:
+
+According to the document, Kering does not explicitly mention projects focused on ecosystem restoration and protection of ecosystems. However, it highlights its efforts to respect and protect the environment through its Environmental Profit & Loss (EP&L) tool, which helps define the company's environmental strategy and reduce its ecological footprint.
+
+Kering's EP&L tool prioritizes projects that promote sustainable development and reduce environmental impacts, but it does not specifically mention ecosystem restoration or protection. Additionally, Kering has identified certain activities as eligible for the EU's "Taxonomy green" regulation, such as repair, refurbishment, and reuse of products, which can contribute to a circular economy.
+
+While Kering's efforts focus more on reducing its environmental impact rather than actively restoring ecosystems, it is essential to note that the company's sustainable development strategy encompasses various initiatives aimed at minimizing its ecological footprint.
+
+Données_extraites = ({'hectaresRestored': 0})
+
+Answer_context: [Kering (Document d’enregistrement universel 20/23), Kering (Stratégie d’optimisation EP&L)]

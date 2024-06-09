@@ -1,0 +1,14 @@
+Explication:
+
+L'entreprise Kering a élaboré une politique d'engagement en ce qui concerne les principes suivants relatifs aux droits du travail. Selon le règlement 2020/852 du 18 juin 2020 (dit règlement "Taxonomie verte"), la Taxonomie verte vise à identifier les activités économiques répondant à au moins l'un des six objectifs environnementaux, notamment la transition vers une économie circulaire. Kering a identifié certaines activités qui pourraient s'appliquer au Groupe, notamment la réparation, remise en état et reconditionnement (5.1) et la vente de produits de seconde main avec pour objectif la transition vers une économie circulaire (5.4).
+
+Cela montre que l'entreprise est engagée dans des pratiques qui respectent les droits du travail et contribuent à une transition vers une économie plus durable.
+
+Données extraites:
+
+('engagementLabourRights': 'Oui, compris dans une politique plus large ou en tant que politique autonome')
+
+Answer context:
+(citation1: "La Taxonomie verte vise à identifier les activités économiques répondant à au moins l'un des six objectifs environnementaux...", p. 5)
+(citation2: "Kering a identifié certaines activités qui pourraient s'appliquer au Groupe, notamment la réparation, remise en état et reconditionnement (5.1) et la vente de produits de seconde main avec pour objectif la transition vers une économie circulaire (5.4)", p. 5)
+(citation3: "Selon le règlement 2020/852 du 18 juin 2020 (dit règlement 'Taxonomie verte')", p. 5)

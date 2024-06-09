@@ -1,0 +1,7 @@
+Explication = L'entreprise Hermès a élaboré des politiques environnementales pour plusieurs domaines clés, notamment la propriété intellectuelle et l'économie numérique, la distribution et la concurrence, la gouvernance d'entreprise, le développement durable, ainsi que la promotion et protection des industries culturelles et créatives du haut de gamme.
+
+Données extraites = ("politiqueEnvironnementale", "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer context:
+[1] La Charte Santé et Sécurité Signée par le Comité exécutif du Groupe en avril 2021 vise à développer une culture du « zéro accident ».
+[2] La Charte relative à l'approvisionnement responsable des matières premières animales En 2019, le Groupe a déployé la Charte relative à l'approvisionnement responsable des matières premières animales.

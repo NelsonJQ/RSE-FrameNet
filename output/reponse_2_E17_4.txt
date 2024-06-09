@@ -1,0 +1,9 @@
+Explication = Kering soutient et met en œuvre des projets axés sur la restauration de l'écosystème et la protection des écosystèmes. Selon le rapport d'enregistrement universel 2023, le groupe a évalué ses pressions sur la nature, l'état de la nature lié à ces pressions, et l'état de la biodiversité (p. 237). Cette évaluation a été réalisée à l'échelle du bassin hydrologique pour les opérations directes du groupe (bureaux, boutiques, sites industriels, entrepôts et tanneries), ainsi qu'à l'échelle nationale pour les impacts liés à la chaîne de valeur. 
+
+Cela montre que Kering est conscient des impacts de ses activités sur l'environnement et met en œuvre des initiatives pour réduire ces impacts. Par exemple, le groupe a fixé l'objectif de réduire la consommation d'eau de ses tanneries détenues en propre de 35% d'ici 2025 par rapport à 2022 (p. non spécifié).
+
+Enfin, Kering identifie les activités économiques du groupe qui répondent aux six objectifs environnementaux définis dans le règlement européen "Taxonomie verte" (p. 237). Cela montre que le groupe est engagé dans une démarche de transition vers une économie circulaire et protège la biodiversité.
+
+Données_extraites = ('hectaresRestored': None)
+
+Answer_context = [citation non spécifié]

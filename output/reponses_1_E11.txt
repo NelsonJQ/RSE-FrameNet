@@ -1,0 +1,7 @@
+Explication = According to the provided data, the percentage of Gucci's revenue from low-carbon activities is not explicitly stated. However, we can infer that the company has made efforts to reduce its environmental impact. The report mentions that Gucci has a "Gucci Loves Animals" campaign, which aims to promote sustainable fashion practices and reduce waste.
+
+Donnes_extraites = ('lowcarbonRevenues': None)
+
+Answer_context = []
+
+Note: Since the exact percentage of low-carbon revenues is not provided, we cannot give an exact figure. However, we can acknowledge Gucci's efforts towards sustainability.

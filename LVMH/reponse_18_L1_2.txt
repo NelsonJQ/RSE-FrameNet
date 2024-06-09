@@ -1,0 +1,8 @@
+Explication: L'entreprise Hermès a élaboré une politique d'engagement en ce qui concerne les principes relatifs aux droits du travail. Selon le code de conduite, les partenaires du groupe sont tenus de respecter les principes fondamentaux des droits du travail, tels que la liberté de choix, l'égalité de traitement, la non-discrimination et la sécurité au travail. Ils doivent également préserver les conditions de travail justes et équitables pour tous les employés (p. 2).
+
+Données extraites: ('engagementLabourRights': 'Oui, compris dans une politique plus large ou en tant que politique autonome')
+
+Answer context:
+La citation littéraire qui a servi à répondre est la suivante : "Les partenaires du groupe sont tenus de respecter les principes fondamentaux des droits du travail, tels que la liberté de choix, l'égalité de traitement, la non-discrimination et la sécurité au travail." (p. 2)
+
+Note: La politique d'engagement en ce qui concerne les principes relatifs aux droits du travail est comprise dans le code de conduite de l'entreprise Hermès, page 2.

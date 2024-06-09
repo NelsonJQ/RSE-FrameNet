@@ -1,0 +1,5 @@
+Explication = Kering a mis en place des projets de production d'énergie renouvelable sur site pour réduire son empreinte carbone. Par exemple, Balenciaga a installé des panneaux solaires sur son site industriel italien, Bottega Veneta a installé des systèmes photovoltaïques dans ses bureaux et atelier, et Gucci a installé des panneaux solaires sur plusieurs sites en Italie.
+
+Données_extraites = ("fournirSolutionImpact": "Oui, recours fourni/activé")
+
+Answer_context = ["Kering opère sur le marché du Luxe dont les chaînes d'approvisionnement sont structurées de manière très spécifique", "Portfolio de fournisseurs Taille des fournisseurs Localisation géographique des fournisseurs de Kering en 20 23"]

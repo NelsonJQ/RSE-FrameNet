@@ -1,0 +1,5 @@
+Explication = L'entreprise Kering s'est engagée auprès des parties prenantes affectées ou de leurs représentants légitimes concernant les questions relatives aux droits du travail. Selon la section 4 Développement durable, le Groupe a mis en place des formations dédiées à l'artisanat au sein de centres d'excellence pour assurer la préservation et la promotion de savoir-faire au cœur des métiers du Groupe (page source : Kering, 2023). De plus, les Maisons du Groupe ont également noué des partenariats locaux et développé des stratégies de recrutement inclusif pour favoriser l'inclusion et la diversité dans leur chaîne d'approvisionnement.
+
+Données extraites = {'engagementLabourRightsStakeholders': 'Discuter des moyens potentiels de prévenir ou d\'atténuer les risques / impacts en question'}
+
+Answer_context = [citations littérales de la source que j'ai utilisée pour répondre, par exemple : "Kering, 2023"]

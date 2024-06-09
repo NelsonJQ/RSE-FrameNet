@@ -1,0 +1,5 @@
+Explication = L'entreprise Kering a élaboré une politique pour réduire l'utilisation d'emballages plastiques à usage unique et favoriser les emballages recyclés ou biosourcés. Elle considère la suppression des emballages en plastique à usage unique dans le secteur comme une priorité et s'est fixée comme objectif ambitieux de les supprimer d'ici 2025.
+
+Donnes_extraites = ("politiqueEnvironmentale": "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer_context = [1. Il est à noter que l'utilisation de plastique compostable n'est pas considérée comme une solution viable pour le Groupe, ces matières n'ayant pas démontré de bénéfices environnementaux spécifiques., 2. Les Maisons portent une attention particulière aux emballages du e-commerce.]

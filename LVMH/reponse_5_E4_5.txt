@@ -1,0 +1,6 @@
+Explication: LVMH évalue les progrès accomplis dans la prévention et l'atténuation des risques liés à la pollution de l'air en fixant des objectifs annuels, suivi des progrès au fil du temps. Selon la partie 3.2 "Environnement" de la déclaration de performance extra-financière (DPEF), LVMH a mis en place une plateforme digitale pour évaluer et visualiser la vulnérabilité de ses sites face à 28 aléas climatiques, y compris la pollution de l'air. Cette plateforme permet de quantifier les impacts eau et biodiversité les plus significatifs sur l'ensemble de la chaîne de valeur du Groupe (page 15).
+
+Données extraites: {"evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps"}
+
+Answer context:
+- LVMH, partie 3.2 "Environnement" de la déclaration de performance extra-financière (DPEF), page 15.

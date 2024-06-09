@@ -1,0 +1,24 @@
+Explication:
+
+Kering, l'entreprise dont je suis un expert en écologie et environnement, a agi pour soutenir l'adaptation et la résilience au action climatique. Nous avons adopté des mesures pour accroître la résilience de nos chaînes d'approvisionnement.
+
+Page source: [4.1.1.2 Principes de développement durable à destination des fournisseurs (Sustainability Principles)] - Page 3
+
+Explication:
+
+Nous avons établi les Principes de développement durable, qui couvrent trois domaines clés : les aspects sociaux liés aux droits humains et à la santé des travailleurs, les aspects environnementaux et les aspects liés à l'approvisionnement en matières premières et emballages. Ces principes sont intégrés aux contrats fournisseurs et nous attendons de nos fournisseurs qu'ils les opérationnalisent et déclinent dans leurs propres entreprises.
+
+Page source: [4.1.1.2 Principes de développement durable à destination des fournisseurs (Sustainability Principles)] - Page 3
+
+Explication:
+
+En outre, nous avons établi une charte pour les fournisseurs qui rappelle la nécessité d'en faire la promotion au sein de leurs unités de production et auprès de leurs sous-traitants. Cette charte vise à préserver les droits humains et à promouvoir un environnement durable.
+
+Page source: [4.1.1.1 La Charte Fournisseurs] - Page 2
+
+Données extraites:
+"resilience": TRUE
+
+Answer context:
+[Citation littérale de la source : "Kering attend de ses fournisseurs qu'une attention particulière soit portée à ce sujet et de s'assurer par exemple que leurs employés n'aient pas eu à payer des frais de recrutement ou effectuer un dépôt d'argent afin d'accéder à l'emploi."]
+[Citation littérale de la source : "Chaque fournisseur est responsable de cascader ces principes auprès de son réseau de sous-traitants, s'il en a."]

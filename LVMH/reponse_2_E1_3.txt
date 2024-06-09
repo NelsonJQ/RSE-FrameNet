@@ -1,0 +1,8 @@
+Explication : L'entreprise Hermès a élaboré une politique environnementale qui couvre plusieurs aspects, notamment la biodiversité, le climat et la traçabilité des filières d'approvisionnements. La Direction du développement Environnement accompagne le Groupe et ses Maisons pour une performance environnementale d'excellence alignée avec les nouveaux objectifs du programme environnemental LIFE 360.
+
+Données extraites : "politiqueEnvironmentale": Oui, compris dans un programme plus large ou en tant que politique autonome (source : Hermès, Programme Environnemental LIFE 360)
+
+Answer context :
+
+* "La Direction du développement Environnement accompagne le Groupe et ses Maisons pour une performance environnementale d'excellence alignée avec les nouveaux objectifs du programme environnemental LIFE 360" (Source : Hermès, Programme Environnemental LIFE 360)
+* "Les domaines clés pour le business incluent la propriété intellectuelle et l'économie numérique, la distribution et la concurrence, la gouvernance d'entreprise, le développement durable, ainsi que la promotion et protection des industries culturelles et créatives du haut de gamme" (Source : Hermès, Programme Environnemental LIFE 360)

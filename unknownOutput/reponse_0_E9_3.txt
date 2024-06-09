@@ -1,0 +1,12 @@
+Explication:
+
+Kering a agi pour soutenir l'adaptation et la résilience au changement climatique en identifiant les risques et opportunités liés au climat, en particulier grâce à ses scénarios RCP et NGFS. Les sept opportunités identifiées incluent la promotion des pratiques d'agriculture régénératrice dans la chaîne d'approvisionnement de Kering, le développement de relations stratégiques avec les fournisseurs autour des enjeux climatiques, etc. (Source: 2)
+
+En outre, Kering a également adopté des mesures pour accroître la résilience des communautés dans lesquelles nous opérons, comme l'utilisation de solutions fondées sur la nature pour réduire son empreinte carbone et ainsi soutenir l'adaptation au changement climatique. (Source: 8)
+
+Enfin, Kering a également mis en place des dispositifs de suivi de l'alignement et de la traçabilité notamment en lien avec les notes de bas de page du tableau présenté en partie 5.4.2 de l'URD, ce qui montre que l'entreprise est consciente de l'importance d'adapter ses pratiques à l'évolution climatique et de soutenir la résilience des communautés dans lesquelles elle opère.
+
+Donnes_extraites: ("resilience": TRUE)
+
+Answer_context:
+[1], [8]

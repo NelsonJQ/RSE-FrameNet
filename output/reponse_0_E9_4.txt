@@ -1,0 +1,13 @@
+Explication:
+
+Kering, l'entreprise à laquelle je fais référence, a pris des mesures pour soutenir l'adaptation et la résilience au climat. Selon le rapport de développement durable 2023 (page 24), Kering a financé des initiatives et des projets d'adaptation aux changements climatiques. Par exemple, le groupe a investi dans des solutions énergétiques renouvelables pour réduire ses émissions de carbone.
+
+Les actions prises par Kering incluent la mise en place de dispositifs de suivi de l'alignement et de la traçabilité pour mesurer les progrès réalisés dans ce domaine. Ainsi, le rapport précise que le groupe a atteint 71% à 73% de conformité aux définitions et procédures relatives au développement durable (page 25).
+
+En résumé, Kering a agi pour soutenir l'adaptation et la résilience au climat en financant des initiatives et des projets d'adaptation et en mettant en place des dispositifs de suivi pour mesurer les progrès réalisés.
+
+Donnees_extraites = ("resilience": TRUE)
+
+Answer_context:
+[Kering rapport de développement durable 2023, page 24]
+[Kering rapport de développement durable 2023, page 25]

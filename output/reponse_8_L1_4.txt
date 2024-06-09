@@ -1,0 +1,5 @@
+Explication = Kering a élaboré une politique d'engagement concernant les principes relatifs aux droits du travail. Selon la charte sur les relations de travail et de bien-être des mannequins, publiée en 2017 par Kering et LVMH, le Groupe promeut des standards élevés d'intégrité, de responsabilité et de respect vis-à-vis des personnes concernées. Cette Charte s'inscrit également dans une démarche de communication responsable et vise à promouvoir le respect de la dignité de toutes les personnes.
+
+Données extraites = {'engagementLabourRights': 'Oui, compris dans une politique plus large ou en tant que politique autonome'}
+
+Answer_context = [citation1="La Charte sur les relations de travail et de bien-être des mannequins, publiée en 2017 par Kering et LVMH...", citation2="", citation3=""]

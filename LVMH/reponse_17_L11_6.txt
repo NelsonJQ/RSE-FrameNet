@@ -1,0 +1,7 @@
+Explication = "LVMH a remboursé les emprunts obligataires émis en 2020, 2019 et 2014, ainsi que les swaps de couverture associés. Il n'y a pas d'impact négatif relatif aux questions de droits du travail liés à ces opérations financières."
+
+Donnees_extraites = ('responseLabourRightIncident': "Impact négatif NON, alors recours de réponse non nécessaire")
+
+Answer_context = [https://www.lvmh.com/fr/environnement-et-durabilite/]
+
+Note: The provided text does not mention any negative impact related to labor rights or any measures taken by the company to mitigate such impacts.

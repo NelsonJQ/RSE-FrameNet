@@ -1,0 +1,7 @@
+Explication = Hermès, dans le cadre de son programme LIFE 360, s'est engagé pour une performance environnementale d'excellence. Au cours de la période de reporting, l'entreprise a pris des engagements auprès des parties prenantes affectées ou leurs représentants légitimes concernant les questions environnementales suivantes : Forêts / Biodiversité / Utilisation des terres.
+
+Donnees_éxtraites = {"engagementStakeholders": "Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question"}
+
+Answer_context = [citation de la source : "La Direction du développement Environnement accompagne le Groupe et ses Maisons pour une performance environnementale d'excellence alignée avec les nouveaux objectifs du programme environnemental LIFE 360 communiqués depuis 2021."]
+
+Note : Selon la Charte relative à l'approvisionnement responsable des matières premières animales, Hermès a établi un processus de recherche scientifique et de collaboration entre les experts environnementaux de LVMH, les Maisons et leurs fournisseurs pour améliorer la traçabilité totale des chaînes d'approvisionnement, les conditions d'élevage et de trappe des animaux et le respect des populations locales, de l'environnement et de la biodiversité. Cela montre que l'entreprise s'est engagée à discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question concernant les Forêts / Biodiversité / Utilisation des terres.

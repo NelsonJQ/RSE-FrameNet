@@ -1,0 +1,7 @@
+Explication = LVMH est un groupe de mode et de maroquinerie qui met en œuvre des processus de production écoresponsables. Selon le rapport annuel 2023 de LVMH, le groupe a mis en place un processus de validation strict des investissements publicitaires pour réduire son impact environnemental. De plus, LVMH s'est doté d'un standard interne interdisant ou restreignant la présence de certaines substances dans les articles mis sur le marché et leur utilisation par les fournisseurs : la LVMH Restricted Substances List.
+
+Données extraites = ('emissionsScope': ? , 'unit': ?)
+
+Answer_context = [ Citation 1: "Les Maisons des groupes d’activités Mode et Maroquinerie et Montres et Joaillerie se sont dotées d’un standard interne interdisant ou restreignant la présence de certaines substances dans les articles mis sur le marché et leur utilisation par les fournisseurs : la LVMH Restricted Substances List." - page 12 du rapport annuel 2023 de LVMH ]
+
+Note: Les émissions mondiales brutes de gaz à effet de serre (GES) de portée 3 (Scope 3) ne sont pas mentionnées dans le rapport annuel 2023 de LVMH. Il est possible que les données soient disponibles dans d'autres rapports ou documents du groupe.

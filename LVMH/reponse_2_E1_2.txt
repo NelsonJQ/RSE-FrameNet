@@ -1,0 +1,10 @@
+Explication:
+
+L'entreprise Hermès a élaboré une politique sur les questions environnementales, notamment concernant l'eau. Selon la source, le groupe a travaillé à la traçabilité de ses matières premières et connaît en 2023 l'origine de ses matières d'origine animale pour 99,9% des cuirs exotiques, 99,9% des fourrures et 88% des laines. Il est également mentionné que le groupe a mené une politique ambitieuse pour améliorer la traçabilité de ses chaînes d'approvisionnement.
+
+Données extraites:
+
+("politiqueEnvironnementale": "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer context:
+[Citation littéraire de la source: "Les Maisons du Groupe travaillent à la traçabilité de leurs matières premières et connaissent en 2023 l'origine de leurs matières d'origine animale pour 99,9% des cuirs exotiques, 99,9% des fourrures et 88% des laines."]

@@ -1,0 +1,5 @@
+Explication: Hermès a établi des politiques environnementales pour répondre aux questions suivantes : pollution de l'air. Selon la source, le groupe d'activités a rejoint l'initiative "Responsible Beauty Initiative" pour développer des plans d'action répondant aux enjeux propres à leurs activités (§2). Ils ont également mis en place un programme LIFE 360 qui inclut la traçabilité du cuir et du coton, ainsi que des objectifs de certification des matières premières (§3.1.2).
+
+Données extraites: ("politiqueEnvironnementale": "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer context: [LVMH's 2023 Environmental and Sustainability Report; §2 and §3.1.2]

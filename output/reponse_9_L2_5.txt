@@ -1,0 +1,7 @@
+Explication:
+L'entreprise Kering s'est engagée auprès des parties prenantes affectées ou de leurs représentants légitimes concernant les questions relatives aux droits du travail. Selon la source, l'entreprise a créé un réseau de 400 ambassadeurs dans les magasins de Balenciaga pour réduire l'impact des sites de vente et mieux sensibiliser sur le sujet en interne (source : page 3). De plus, Kering a lancé la campagne Dare to Refer, offrant une prime de cooptation aux employés lorsque le recrutement de la personne référencée sera abouti. Ce programme vise à favoriser l'inclusion et la diversité au sein de l'entreprise (source : page 4).
+
+Données extraites: ('engagementLabourRightsStakeholders': 'Oui')
+
+Answer context:
+[Source : page 3, Source : page 4]

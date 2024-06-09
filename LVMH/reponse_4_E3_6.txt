@@ -1,0 +1,5 @@
+Explication: L'entreprise Hermès a adopté plusieurs mesures pour prévenir et atténuer les risques liés à l'épuisement des ressources naturelles, notamment en ce qui concerne les déchets. Selon la page 1, l'une de ces mesures est la mise en place d'un standard interne interdisant ou restreignant la présence de certaines substances dans les articles mis sur le marché et leur utilisation par les fournisseurs : la LVMH Restricted Substances List. Cette mesure vise à réduire l'utilisation de substances dangereuses et à améliorer la qualité des rejets d'eau usée sur les sites de fabrication.
+
+Données extraites: "preventionImpact": Renforcer les capacités des relations commerciales pertinentes (par exemple, partenaires, fournisseurs, clients, etc.)
+
+Answer context: [« Code de conduite Fournisseurs », « Assurance couvrant les atteintes à l’environnement », « LVMH Restricted Substances List »]

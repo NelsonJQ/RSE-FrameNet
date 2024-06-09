@@ -1,0 +1,5 @@
+Explication : Les déchets produits par l'entreprise Hermès au cours de la période de reporting sont principalement générés par le textile et les emballages. Selon la plateforme CEDRE, qui est utilisée pour le tri, le recyclage et la valorisation des matières et produits issus de la fabrication, du conditionnement, de la distribution et de la vente des parfums et des produits cosmétiques, ainsi que pour les filières textiles, les déchets sont revendus à un réseau de recycleurs spécialisés (p. 2).
+
+Données extraites : 'tonsWaste': ?
+
+Answer_context = [« Cette plateforme est désormais utilisée pour le textile des Maisons de mode... », p. 1]

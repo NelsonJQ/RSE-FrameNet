@@ -1,0 +1,5 @@
+Explication = Kering a mis en place des moyens et ressources pour appuyer l'adaptation et la résilience face au changement climatique. Nous avons mobilisé les compétences de quatre personnes pour réaliser nos travaux sur une durée totale d'intervention de quatre semaines, ce qui montre que l'entreprise est prête à investir dans des mesures pour renforcer sa résilience.
+
+Donnes_extraites = ("resilience": TRUE)
+
+Answer_context=[«Nous avons mené une dizaine d’entretiens avec les personnes responsables de la préparation des Informations représentant notamment de la direction Finance Durable.» (page 1)]

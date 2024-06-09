@@ -1,0 +1,10 @@
+Explication : L'entreprise Kering soutient les projets axés sur la restauration de l'écosystème et la protection des écosystèmes. Selon le document d'enregistrement universel de Kering (2023), le Groupe investit volontairement dans des projets de compensation carbone fondés sur la nature, qui contribuent à l'atténuation du changement climatique au-delà des chaînes de valeur et permettent de préserver et restaurer des écosystèmes sensibles (forêts, zones humides, zones côtières) (p. 229).
+
+Ces projets comprennent notamment la restauration de la biodiversité, en particulier pour les espèces animales comme les bergers nomades dans le programme Gobi Desert Cashmere, qui vise à favoriser une production durable et traditionnelle de cachemire (p. 230). Le Groupe fournit également son expertise à diverses initiatives visant à développer des certifications et modes de production de laine durable.
+
+Données extraites : Aucune données spécifique sur les hectares restaurés n'est mentionnée dans le document. Cependant, il est noté que le programme Gobi Desert Cashmere intervient sur 150 000 hectares de pâturages de la province d'Omno-Gobi.
+
+Answer_context :
+
+* "Le Groupe investit volontairement dans des projets de compensation carbone fondés sur la nature..." (p. 229)
+* "Le programme Gobi Desert Cashmere intervient sur 150 000 hectares de pâturages de la province d'Omno-Gobi." (p. 230)

@@ -1,0 +1,5 @@
+Explication = According to the provided data, the emissions of CO2 linked to energy consumption (scopes 1 & 2) were measured at -28.2% in 2023 compared to the baseline year 2019. This represents a reduction of 50% towards the goal of achieving 100% renewable energies by 2026.
+
+Données_éxtraites = ('emissionsScope': -28.2, 'unit': '%')
+
+Answer_context = [a) Valeur et évolution à périmètres comparables. Conformément au GHG Protocol, la performance entre 2023 et 2019 se base sur un périmètre recalculé 2019 qui tient compte des évolutions depuis 2023 : ajout des émissions des Maisons ayant intégré le périmètre de reporting LVMH, ajout des émissions relatives aux nouveaux sites ouverts depuis 2019, soustraction des émissions des sites présents en 2019 mais supprimés en 2023, ajout du différentiel de surface des boutiques since 2019 auxquelles sont appliquées les émissions moyennes par m² de 2019.

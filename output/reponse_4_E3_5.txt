@@ -1,0 +1,9 @@
+Explication = Kering a mis en place plusieurs mesures pour prévenir et atténuer les risques environnementaux associés à l'utilisation des emballages. Parmi ces mesures, on peut citer le développement de solutions innovantes pour réduire l'impact environnemental de l'e-commerce, tels que l'utilisation d'emballages en carton plus léger utilisé par Bottega Veneta et l'utilisation d'emballages en coton réutilisables et en papier certifié FSC mix utilisés par Gucci.
+
+Kering a également mis en place un programme de prise en charge (Take Back) pour les boîtes de protection en plastique pour ses accessoires, ce qui a permis d'éviter la production de 360 000 boites supplémentaires et donc de réduire l'impact environnemental.
+
+Enfin, Kering a défini un objectif ambitieux de supprimer les emballages en plastique à usage unique dans le secteur d'ici 2025, avec des solutions telles que la suppression de l'emballage, la remplacement du plastique par un autre matériau (par exemple du papier), l'utilisation d'un plastique 100% circulaire ou la réutilisation de l'emballage.
+
+Donnees_extraites = ("preventionImpact": "Développement de solutions innovantes pour réduire l'impact environnemental de l'e-commerce", "Renforcer les capacités des relations commerciales pertinentes (par exemple, partenaires, fournisseurs, clients, etc.)")
+
+Answer_context=[citation de la page 3: "Les Maisons portent une attention particulière aux emballages du e-commerce.", citation de la page 4: "L’engagement de Kering est également reconnu en externe. Le Groupe obtient le score de A au CDP Climate 20..."]

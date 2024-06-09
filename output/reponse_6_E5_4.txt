@@ -1,0 +1,5 @@
+Explication = Kering a pris des mesures pour réduire son impact environnemental lié à la forêt et à la biodiversité. En 2018, l'entreprise a soutenu le lancement de Forest Mapper, une carte interactive permettant de suivre les forêts anciennes et menacées, afin d'aider les entreprises à prendre des décisions éclairées dans leurs achats de papier, emballage, bois ou textiles cellulosiques. De plus, Kering s'approvisionne en priorité auprès de fournisseurs ayant atteint le niveau "vert foncé" ou "dark green" selon la méthodologie du Canopy Hot Button Ranking.
+
+Données_extraites = ("fournirSolutionImpact": "Oui, recours fourni/activé")
+
+Answer_context=[ Citation : "En 2018, Kering a soutenu le lancement de Forest Mapper...", Page source : p. ?]

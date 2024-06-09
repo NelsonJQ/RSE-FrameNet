@@ -1,0 +1,11 @@
+Explication:
+
+Selon le document d'enregistrement universel 2023 (p. 9), les émissions mondiales brutes de gaz à effet de serre (GES) de portée 3 (Scope 3) de Kering pendant la période de reporting sont non définies, car l'entreprise n'a pas fourni de données sur ces émissions.
+
+Données extraites:
+
+Donnees_extraites = ({}, 'n.a.')
+
+Answer context:
+
+[]

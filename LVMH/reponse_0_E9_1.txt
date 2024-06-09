@@ -1,0 +1,13 @@
+Explication:
+
+LVMH (Moët Hennessy Louis Vuitton) a pris des mesures pour accroître la résilience de l'ensemble de l'organisation face au changement climatique. Le groupe a mis en place un processus de gestion des risques climatiques qui identifie, évalue et répond aux risques et opportunités liés au climat (DEU: Gestion des risques p. 54). Les Maisons de mode et maroquinerie ont également adopté des pratiques durables telles que la sobriété, l'éternité et la renaissance pour réduire les impacts environnementaux (§2.1.4).
+
+LVMH a également mis en place un processus de validation strict des investissements publicitaires pour minimiser les effets indésirables du climat (§2.3). De plus, le groupe a rejoint l'organisation professionnelle ZDHC (Zero Discharge of Hazardous Chemicals) pour promouvoir les meilleures pratiques en termes d'utilisation de substances dangereuses et de qualité des rejets d'eau usée sur les sites de fabrication (§2.2.4).
+
+Enfin, LVMH a publié des indicateurs pour évaluer les risques et opportunités liés au climat dans le cadre de la stratégie d'investissement et du processus de gestion des risques (C2.3a et C2.4a). Ces indicateurs permettent de mesurer l'impact du changement climatique sur l'entreprise et de mettre en place des actions pour réduire ses émissions de gaz à effet de serre.
+
+Données extraites: ("resilience": TRUE)
+
+Answer context:
+
+(Citations littérales de la source que j'ai utilisée pour répondre, par exemple: DEU: Gestion des risques p. 54; §2.1.4; C2.3a et C2.4a)

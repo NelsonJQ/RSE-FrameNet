@@ -1,0 +1,10 @@
+Explication = Kering a fourni des recours pour les situations où elle a causé ou contribué à un impact négatif lié aux questions de droits du travail. Selon le principe 31 des UNGP, l'entreprise doit prendre des mesures pour prévenir et résoudre les impacts négatifs sur les droits du travail dans sa chaîne d'approvisionnement. Dans ce contexte, Kering a mis en place un programme de soutien à ses fournisseurs pour réduire leur consommation d'énergie et améliorer leur approvisionnement en matières premières. De plus, l'entreprise a dispensé des formations à certaines catégories de fournisseurs sur les initiatives de Kering en matière de développement durable.
+
+Kering a également pris des mesures pour répondre aux alertes reçues par ses Comités d'éthique. Selon la section 2.4.2, 55 des alertes ont donné lieu à une investigation sous la responsabilité du Comité sollicité et 54 des alertes ont été résolues et closes au 31 décembre 2023.
+
+Cependant, il est important de noter que les recours ne sont pas spécifiquement mentionnés pour les situations où l'entreprise a causé ou contribué à un impact négatif lié aux questions de droits du travail. Il est donc possible que Kering ait pris des mesures pour prévenir et résoudre ces impacts, mais cela n'est pas explicitement mentionné dans le rapport.
+
+Données extraites = ('responseLabourRightIncident': "Impact négatif OUI et recours de réponse NON")
+
+Answer context:
+[page 2.4.2 du rapport]

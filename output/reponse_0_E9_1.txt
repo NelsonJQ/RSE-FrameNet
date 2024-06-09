@@ -1,0 +1,11 @@
+Explication:
+
+Kering a adopté des mesures pour accroître la résilience de l'ensemble de l'organisation face au changement climatique. Pour cela, le groupe a mis en place un plan de sobriété énergétique et une stratégie d'approvisionnement énergétique qui privilégient l'utilisation d'énergie renouvelable. De plus, Kering a également investi dans l'amélioration de l'efficacité énergétique des sites, notamment en installant des systèmes solaires sur les toits et les parkings.
+
+Cela permettra au groupe de réduire ses consommations d'énergie et ainsi réduire son empreinte carbone. En outre, Kering a également adopté une approche plus durable dans l'approvisionnement en matières premières et emballages, en veillant à ce que les fournisseurs soient responsables et respectent les normes de bien-être animal et des libertés afférentes.
+
+Grâce à ces mesures, Kering contribue ainsi à l'atténuation du changement climatique et à la résilience de l'ensemble de l'organisation face aux impacts du changement climatique. (Source: page 8)
+
+Données_extraites = {"resilience": TRUE}
+
+Answer_context=[citation littérale de la source: "Kering a renforcé sa stratégie d'économie d'énergie avec un plan de sobriété énergétique mis en place par toutes les Maisons et le Siège."]

@@ -1,0 +1,9 @@
+Explication = Kering a mis en place des projets axés sur la restauration et la protection des écosystèmes, notamment au travers du pilote SBTN (Science-Based Targets for Nature). Selon le document d'enregistrement universel de Kering 2023, p. 237, l'entreprise a évalué ses pressions sur la nature, l'état de la nature lié à ces pressions et l'état de la biodiversité. Ce processus a été mené à l'échelle du bassin hydrologique pour les opérations directes du groupe (bureaux, boutiques, sites industriels, entrepôts et tanneries) et à l'échelle nationale pour les impacts liés à la chaîne de valeur.
+
+Explication = (Votre réponse en trois paragraphs maximum en citant la page source)
+
+Donnees_extraites = ('hectaresRestored': 0.0) 
+
+Answer_context=[citation littérale de la source que vous avez utilisées pour répondre]
+
+Note: Comme il n'y a pas de mention spécifique à propos des terres mises en jachère ou restaurées, les informations extraites sont réinitialisées à 0,0.

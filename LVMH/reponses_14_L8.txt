@@ -1,0 +1,13 @@
+Explication:
+
+L'information demandée concerne le rapport moyen entre le salaire de base et la rémunération des femmes et des hommes au sein du groupe Hermès. Selon l'information fournie, il n'y a pas de données précises sur ce sujet dans la partie "Environnement et durabilité" du chapitre 12.2.1. Cependant, nous pouvons consulter les informations relatives à la Responsabilité Sociale et Environnementale du Groupe pour trouver des éléments qui pourraient être pertinents.
+
+Données extraites:
+
+La page 26 du document montre que l'attribution de la rémunération est faite à hauteur de 90% selon des indicateurs financiers et 10% selon une condition extra-financière relevant de la Responsabilité Sociale et Environnementale du Groupe. Cela signifie que les salariés sont récompensés pour leur performance en matière de durabilité et de responsabilité sociale.
+
+Answer context:
+
+[26, "Les indicateurs financiers sont utilisés à hauteur de 90% pour déterminer la rémunération des salariés."]
+
+Note: Comme il n'y a pas d'information spécifique sur le rapport moyen entre le salaire de base et la rémunération des femmes et des hommes, nous ne pouvons pas fournir de chiffres précis. Cependant, nous avons pu extraire des informations relatives à l'attribution de la rémunération au sein du groupe Hermès.

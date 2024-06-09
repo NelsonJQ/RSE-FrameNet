@@ -1,0 +1,7 @@
+Explication = 
+
+Kering a pris des mesures pour réduire son impact environnemental lié à l'énergie et aux ressources. Ainsi, dans le secteur e-commerce, la Maison Bottega Veneta utilise des emballages en carton plus légers, ce qui optimise l'espace et réduit l'impact de l'expédition des produits (page 2). De plus, Gucci n'utilise plus de plastique dans son retail et e-commerce, et utilise à la place des emballages en coton réutilisables et en papier certifié FSC (page 3). En outre, Kering a mis en œuvre un programme Take Back pour collecter les boîtes de protection en plastique pour ses accessoires, ce qui a permis d'éviter la production de 360 000 boites supplémentaires et 43 tonnes de plastiques (page 3).
+
+Donnees_extraites = ("fournirSolutionImpact": "Oui, recours fourni/activé")
+
+Answer_context=[citation2="Ainsi, dans le secteur e-commerce, la Maison Bottega Veneta utilise des emballages en carton plus légers, ce qui optimise l'espace et réduit l'impact de l'expédition des produits.", citation3="En outre, Kering a mis en œuvre un programme Take Back pour collecter les boîtes de protection en plastique pour ses accessoires."]

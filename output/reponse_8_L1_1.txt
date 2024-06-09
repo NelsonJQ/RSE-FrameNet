@@ -1,0 +1,12 @@
+Explication:
+
+L'entreprise Kering a élaboré une politique d'engagement en ce qui concerne les principes suivants relatifs aux droits du travail, notamment la liberté d'association et la reconnaissance effective du droit de négociation collective. Selon la page 5 du rapport, le Groupe s'appuie sur les outils et réseaux sociaux les plus performants pour recruter les meilleurs profils, ce qui montre une attention au respect des droits du travail.
+
+Données extraites:
+
+('engagementLabourRights': "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer context:
+[citation1: Kering a élaboré une politique d'engagement en ce qui concerne les principes suivants relatifs aux droits du travail]
+
+Note: Le format de réponse attendu est un peu complexe, mais je vous ai fourni une réponse exemple et les informations nécessaires pour répondre à la question.

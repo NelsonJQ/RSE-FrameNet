@@ -1,0 +1,8 @@
+Explication = Kering a élaboré une politique sur les déchets et les questions environnementales. Selon la page 12 du rapport, le groupe a mis en place des solutions pour réduire les déchets de construction à au moins 70% par rapport au poids total des déchets, afin de favoriser le recyclage, le réemploi ou toute autre forme de valorisation (DNSH – Économie circulaire). De plus, Kering a vérifié que la conception et les techniques de construction favorisent la circularité (réutilisation des matériaux, démontage...) en récupérant la documentation technique des matériaux utilisés sur les chantiers.
+
+Donnees_extraites = ("politiqueEnvironmentale": "Oui, compris dans une politique plus large")
+
+Answer_context=[
+"Cette étude a permis d’actualiser la liste des risques que le Groupe considère comme saillants en matière de droits humains (dont notamment le travail forcé, le travail des enfants dans le cadre de l'approvisionnement en matières premières, la discrimination, la sécurité et santé, la possibilité pour les employés des fournisseurs d'obtenir un salaire décent, et le harcèlement)" (page 4),
+"Kering s'est assuré que les polluants listés dans l’appendice C de l’acte délégué climat n’ont pas été utilisés lors des investissements engagés notamment pour les Rénovations de bâtiments existants (7.2) et l’installation, la maintenance et la réparation d’équipements favorisant l’efficacité énergétique (7.3)" (page 14),
+"Kering a vérifié que la conception et les techniques de construction favorise la circularité (réutilisation des matériaux, démontage...) en récupérant la documentation technique des matériaux utilisés sur les chantiers." (page 12)

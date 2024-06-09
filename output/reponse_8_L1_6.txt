@@ -1,0 +1,10 @@
+Explication:
+
+L'entreprise Kering a élaboré une politique d'engagement en ce qui concerne les principes suivants relatifs aux droits du travail. Selon la page 5-2-4-3, Kering attend de ses fournisseurs qu'ils augmentent progressivement l'efficacité énergétique et l'utilisation des énergies renouvelables, grâce par exemple à la production sur site ou achat direct d'énergie renouvelable. Cela montre que l'entreprise est engagée dans la promotion des principes de travail durable et respectueux.
+
+Données extraites:
+
+{'engagementLabourRights': 'Oui'}
+
+Answer context:
+Page 5-2-4-3 du rapport environnemental de Kering (source).

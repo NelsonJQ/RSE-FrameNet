@@ -1,0 +1,5 @@
+Explication = LVMH a élaboré une politique environnementale qui vise à préserver les écosystèmes, lutte contre la déforestation et réduire le changement climatique. Selon le texte, l'entreprise a lancé un programme de préservation des écosystèmes avec pour objectif de couvrir 5 millions d'hectares en 2030, notamment via l'agriculture régénératrice au sein de ses filières (p. non spécifié). De plus, LVMH a également mis en place une charte spécifique fixant les exigences pour les approvisionnements en matière première d'origine animale (p. non spécifié).
+
+Donnees_extraites = ("politiqueEnvironnementale", "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer_context = [citation littérale de la source : "Le Groupe a également lancé un programme de préservation des écosystèmes avec un objectif de couvrir 5 millions d'hectares en 2030 notamment via le déploiement ambitieux de l'agriculture régénératrice au sein de ses filières."]

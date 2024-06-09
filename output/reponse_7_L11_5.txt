@@ -1,0 +1,7 @@
+Explication = Kering a mis en place des mesures pour réduire l'impact négatif sur les questions de droits du travail. Ainsi, l'entreprise a créé un réseau de 400 ambassadeurs dans les magasins de Balenciaga pour sensibiliser sur le sujet et réduire l'impact des sites de vente. De plus, Kering a lancé la campagne Dare to Refer, offrant une prime de cooptation aux employés lorsque le recrutement de la personne référencée sera abouti. Cela montre que l'entreprise prend en compte les questions de droits du travail et met en place des mesures pour prévenir tout impact négatif.
+
+Données extraites = {'responseLabourRightIncident': 'Impact négatif OUI mais aucun recours de réponse'}
+
+Answer_context = [citation1: "Kering a créé un réseau de 400 ambassadeurs dans les magasins de Balenciaga pour sensibiliser sur le sujet et réduire l'impact des sites de vente."]
+
+Note: The source does not explicitly state any negative impact on labour rights, but the measures taken by Kering suggest that the company is proactive in reducing any potential negative impacts.

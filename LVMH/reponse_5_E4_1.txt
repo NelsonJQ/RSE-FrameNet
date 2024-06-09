@@ -1,0 +1,7 @@
+Explication = LVMH évalue les progrès accomplis dans la prévention/atténuation des risques/impacts associés à l'action climatique en fixant des cibles/objectifs annuels et en suivant leurs progrès au fil du temps (programmes internes et externes). Selon les données énoncées, le groupe a également mis en place un programme LIFE 360 qui vise à améliorer la traçabilité des matières premières comme le coton ou le cuir.
+
+Données_extraites = {"evaluationPrevention": "Fixation de cibles/objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)"}
+
+Answer_context = [Citation1: "Le groupe d'activités a également rejoint l'initiative 'Action for Sustainable Derivatives', une collaboration cogérée et animée par BSR et Transitions.", Citation2: "LVMH réunissant toutes les Maisons de Mode et Maroquinerie se tient deux fois par an."]
+
+Note: Les citations littérales sont extraites de la page source fournie.

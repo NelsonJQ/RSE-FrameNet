@@ -1,0 +1,7 @@
+Explication: LVMH a adopté plusieurs mesures pour prévenir et atténuer les risques et impacts environnementaux liés à l'approvisionnement de ses matières premières. Tout d'abord, l'entreprise a quantifié l'intensité de déforestation potentielle liée à l'approvisionnement des trois matières premières (mica, cuir et coton) en fonction des pays d'origine et des pratiques de production. Cette analyse a permis de détecter les filières à risque élevé et de mettre en place des plans d'action pour améliorer la traçabilité et les conditions de travail dans ces filières.
+
+Données extraites: ("preventionImpact": "Formation interne / renforcement des capacités pour les salariés", p. 3)
+
+Answer context: [Citation littéraire de la source: "Les Maisons de Parfums et Cosmétiques ont rejoint l'initiative 'Responsible Beauty Initiative' pilotée par EcoVadis pour développer des plans d'action répondant aux enjeux propres à leurs activités."]
+
+Note: La page 3 fait référence au rapport annuel 2023 de LVMH.

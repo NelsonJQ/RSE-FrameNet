@@ -1,0 +1,11 @@
+Explication:
+
+Hermès, une entreprise du groupe LVMH, a pris des engagements auprès des parties prenantes affectées concernant les questions environnementales liées aux déchets. Selon la page 2.2.4 du rapport, l'entreprise a mis en place un indicateur de performance pour mesurer le niveau d'engagement de ses fournisseurs cibles dans le programme ZDHC (Zero Discharge of Hazardous Chemicals) pour réduire les déchets toxiques et dangereux. De plus, Hermès a également déployé un programme d'éco-éthique pour gérer les déchets solides et préserver l'environnement.
+
+Données extraites:
+
+engagementStakeholders: "Convenir d'un moyen de prévenir / atténuer les risques / impacts en question"
+
+Answer context:
+
+[Citation 1]: "Déploiement du programme ZDHC Performance 2023" [Citation 2]: "Objectifs LIFE 360" [Citation 3]: "Assurance couvrant les atteintes à l'environnement"]

@@ -1,0 +1,5 @@
+Explication = Kering évalue les progrès accomplis dans la prévention et l'atténuation des risques et impacts associés à l'action climatique en mesurant ses émissions de gaz à effet de serre (GES). Selon le rapport 2023, le groupe a identifié une contribution importante au changement climatique dans son cycle de vie de produits et leur commercialisation, ainsi que des impacts sur le changement climatique liés à ses opérations transverses non directement liées à ses produits. Le Groupe a fixé un objectif de réduction en absolu de 40% de ses émissions de GES d'ici 2035 par rapport à 2021, et a mis en place une feuille de route de décarbonation renforcée pour chaque Maison.
+
+Données_extraites = ("evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)")
+
+Answer_context = [ "Le Groupe a ainsi fait de l’action climatique un élément essentiel de sa démarche de développement durable au travers d’une Stratégie Climat dédiée." ]

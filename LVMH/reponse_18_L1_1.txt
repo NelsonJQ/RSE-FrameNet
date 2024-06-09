@@ -1,0 +1,5 @@
+Explication = L'entreprise Hermès a élaboré une politique d'engagement en ce qui concerne les principes suivants relatifs aux droits du travail. Selon la page 2, le groupe LVMH a manifesté très tôt sa volonté d’agir en entreprise responsable et d’aligner ses opérations et sa stratégie au soutien de différents textes internationaux de référence, dont les Pactes internationaux relatifs aux droits civils et politiques, et économiques, sociaux et culturels. De plus, la page 2 mentionne que le groupe a rejoint l'initiative "Action for Sustainable Derivatives" qui vise à améliorer la traçabilité de la filière des dérivés de palme et les pratiques et conditions tout au long de la chaîne d’approvisionnement.
+
+Donnees_extraites = {'engagementLabourRights': 'Oui, compris dans une politique plus large ou en tant que politique autonome'}
+
+Answer_context = [citations littérales de la source que j'ai utilisées pour répondre, par exemple: "Selon la page 2...", etc.]

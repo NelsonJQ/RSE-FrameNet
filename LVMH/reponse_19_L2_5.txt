@@ -1,0 +1,7 @@
+Explication: L'entreprise Hermès a tenu des réunions avec les salariés pour discuter de leurs conditions de travail et améliorer leur bien-être physique et moral. Les Maisons du Groupe ont développé un ensemble d'initiatives pour instaurer une bonne qualité de vie au travail, y compris l'aménagement des conditions et la flexibilité du temps de travail (p. 3). Cette démarche montre que l'entreprise s'engage envers les parties prenantes affectées par les questions relatives aux droits du travail.
+
+Donnes_extraites: ('engagementLabourRightsStakeholders': "Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question")
+
+Answer_context:
+[Citation 1: "Les Maisons du Groupe ont développé un ensemble d'initiatives pour instaurer une bonne qualité de vie au travail." (p. 3)]
+[Citation 2: "L'aménagement des conditions et la flexibilité du temps de travail répondent aux attentes croissantes des collaborateurs pour leur bien-être physique et moral..." (p. 3)]

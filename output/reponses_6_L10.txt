@@ -1,0 +1,5 @@
+Explication = The Kering Group, as part of its commitment to respect and protect the environment in our operations and value chain, has implemented specific management practices for the tanneries within the group (p. 242). As a result, the emissions of COV (volatile organic compounds) are calculated and tracked by each tannery, which allows for monitoring of these indicators and defining the scope of intervention for new projects.
+
+Donnees_extraites = ('InjuresPerWorker': None)
+
+Answer_context = [None]

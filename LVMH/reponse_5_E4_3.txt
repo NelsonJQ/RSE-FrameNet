@@ -1,0 +1,8 @@
+Explication: L'entreprise Hermès évalue les progrès accomplis dans la prévention/atténuation des risques/impacts associés aux questions environnementales suivantes, notamment l'Océans, à travers une analyse régulière et systématique de ses activités et impacts. Selon le document, la Direction du développement Environnement accompagne le Groupe et ses Maisons pour une performance environnementale d'excellence alignée avec les nouveaux objectifs du programme environnemental LIFE 360.
+
+Données extraites: ('evaluationPrevention': 'Fixation de cibles/objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)')
+
+Answer context:
+
+* "La Direction du développement Environnement accompagne le Groupe et ses Maisons pour une performance environnementale d'excellence alignée avec les nouveaux objectifs du programme environnemental LIFE 360" [Source: non spécifiée]
+* "L'entreprise Hermès évalue les progrès accomplis dans la prévention/atténuation des risques/impacts associés aux questions environnementales suivantes, notamment l'Océans..." [Source: non spécifiée]

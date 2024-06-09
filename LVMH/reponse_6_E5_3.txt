@@ -1,0 +1,11 @@
+Explication = LVMH a mis en place des solutions pour réduire son impact environnemental. Dans le contexte de l'analyse en double matérialité des impacts, risques et opportunités Climat, l'entreprise a initié l'étude des impacts climatiques pour le groupe (voir §1.1.2 Identification des risques).
+
+LVMH a également mis en place un plan de sobriété énergétique pour réduire sa consommation énergétique globale. Trois mesures ont été prises : la mise en place d'une initiative pour encourager les pratiques durables, l'utilisation d'énergies renouvelables et la réduction de la consommation énergétique (voir §3.1.2 Principaux résultats).
+
+Enfin, LVMH a rejoint plusieurs initiatives pour promouvoir des pratiques durables dans ses filières d'approvisionnement. Par exemple, l'entreprise a rejoindre l'initiative "Responsible Beauty Initiative" pour développer des plans d'action répondant aux enjeux propres à ses activités (voir §3.1.2 Principaux résultats).
+
+Donnes_extraites = ("fournirSolutionImpact": "Oui, recours fourni/activé")
+
+Answer_context = [citations littérales de la source que vous avez utilisées pour répondre, citation2, citation3]
+
+Note: Les citations littérales sont des références à des paragraphes ou des sections du texte source qui ont été utilisés pour répondre à la question.

@@ -1,0 +1,7 @@
+Explication = Kering a-t-il engagé les parties prenantes affectées ou leurs représentants légitimes concernant les questions environnementales liées aux océans ? Selon la source, il n'y a pas de réponse explicite à cette question. Cependant, nous pouvons observer que Kering a mis en place un programme Take Back pour collecter et recyclage des boites de protection en plastique pour ses accessoires, ce qui contribue à réduire l'impact environnemental lié aux emballages.
+
+Donnes_extraites = {'engagementStakeholders': 'Aucun engagement sur ce sujet'}
+
+Answer_context = [""]
+
+Il convient de noter que Kering a également mis en place des initiatives pour réduire son impact environnemental, tels que la suppression des emballages en plastique à usage unique dans le secteur, ce qui pourrait avoir un impact positif sur les océans. Cependant, il n'y a pas de réponse explicite à cette question concernant l'engagement avec les parties prenantes affectées ou leurs représentants légitimes.

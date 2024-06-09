@@ -1,0 +1,11 @@
+Explication:
+
+According to the Hermès Group's Environmental Report, the company evaluates its progress in preventing and mitigating environmental risks associated with forests, biodiversity, and land use by setting annual targets and tracking performance. The report states that "the Group sets itself ambitious objectives for the coming years" (p. 12). Specifically, the report notes that Hermès has established a forestry policy aimed at ensuring sustainable forest management practices (p. 13).
+
+Donnees_éxtraites:
+
+('preventionImpact': 'Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)')
+
+Answer_context:
+
+[citation 1: Hermès Environmental Report, p. 12; citation 2: Hermès Environmental Report, p. 13]

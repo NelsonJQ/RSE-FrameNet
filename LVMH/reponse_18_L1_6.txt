@@ -1,0 +1,8 @@
+Explication:
+
+L'entreprise Hermès a élaboré une politique d'engagement en ce qui concerne les principes suivants relatifs aux droits du travail. Selon le tableau ci-dessus, la compagnie a mis en place des mesures pour promouvoir une consommation responsable de vins et spiritueux (§5.3), ainsi que des formations spécifiques pour les salariés et fournisseurs au standard interne "LVMH Restricted Substances List" (§5.3). De plus, la compagnie a également établi un dispositif d'alerte "LVMH Alert Line" (§5.4) et a mis en place le LVMH Heart Fund pour soutenir les collaborateurs (§3.4).
+
+Données extraites:
+{'engagementLabourRights': 'Oui, compris dans une politique plus large ou en tant que politique autonome'}
+
+Answer context: [§5.3, §5.3, §5.4, §3.4]

@@ -1,0 +1,9 @@
+Explication = Kering, l'entreprise qui vous interroge, a adopté plusieurs mesures pour réduire la consommation d'eau douce nécessaire. Pour commencer, le Groupe établit des critères techniques précis afin de limiter la consommation d'eau domestique dans ses boutiques, sièges et bureaux. Ensuite, Kering met en place des actions pour réduire la consommation d’eau domestique notamment au niveau des boutiques, sièges et bureaux. Par exemple, le Groupe interdit l'utilisation d'eau potable comme puits de chaleur dans les systèmes de climatisation et encourage l'utilisation d'eau non-potable (récupération des eaux de pluie) pour certains usages techniques (entretien). De plus, Kering exige l'installation d'un système de plomberie à faible consommation d'eau. Selon la page 2 du rapport annuel, ces mesures ont permis de réduire les besoins en eau.
+
+Donnes_extraites = ("preventionImpact": "Rénovation des systèmes de plomberie / utilisation rationnelle de l'eau")
+
+Answer_context=[
+"Critères techniques précis établis pour limiter la consommation d'eau domestique", 
+"Interdiction de l'utilisation d'eau potable comme puits de chaleur dans les systèmes de climatisation",
+"Mise en place d'actions pour réduire la consommation d’eau domestique notamment au niveau des boutiques, sièges et bureaux"
+]

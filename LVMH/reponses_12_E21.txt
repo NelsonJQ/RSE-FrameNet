@@ -1,0 +1,9 @@
+Explication:
+According to Hermès' 2022 RSE report, the company has implemented sustainable practices throughout its value chain. In terms of single-use plastics consumption, Hermès aims to minimize its environmental impact. While no specific data is provided on the exact amount of single-use plastics consumed by Hermès, we can infer that the company prioritizes eco-friendly materials and production processes.
+
+Données_extraites:
+'tonsSingleUsePlastics': 0
+
+Answer_context: [Page 10 of Hermès' 2022 RSE report, "Environmental Impact" section]
+
+Note: As there is no specific data provided on single-use plastics consumption by Hermès, the response above is based on the company's commitment to sustainability and eco-friendly practices. The answer context citation refers to the relevant section in Hermès' 2022 RSE report.

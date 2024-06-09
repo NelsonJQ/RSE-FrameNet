@@ -1,0 +1,7 @@
+Explication: L'entreprise Kering n'a pas mentionné d'engagement spécifique concernant les droits du travail au cours de la période de reporting. Les activités économiques éligibles au périmètre de la Taxonomie verte sont principalement liées à l'utilisation durable et la protection des ressources aquatiques et marines, ainsi qu'à la transition vers une économie circulaire, mais il n'y a pas d'information sur les engagements spécifiques en matière de droits du travail (page 5.6).
+
+Donnees_extraites: ('engagementLabourRightsStakeholders': "Aucun engagement sur ce sujet")
+
+Answer_context:
+"Cette section est établie en application du règlement européen 2020/852 du 18 juin 2020 (dit règlement « Taxonomie verte »)" (page 5.6)
+"Les sociétés sont ainsi tenues de publier en 2023, les trois indicateurs de Chiffre d'affaires, CAPEX et OPEX correspondant pour la part éligible sur les six objectifs et l'alignement uniquement sur les deux objectifs climatiques d'atténuation et d'adaptation." (page 5.6)

@@ -1,0 +1,8 @@
+Explication: L'entreprise Kering, dont fait partie Gucci, a mis en place plusieurs initiatives pour soutenir ses fournisseurs et réduire les risques liés aux droits de l'homme. Par exemple, le programme "Sviluppo filiere" de Gucci vise à aider les fournisseurs à aligner leur approvisionnement en matières premières sur les standards du groupe Kering, ainsi qu'à sensibiliser les équipes commerciales et business à la durabilité.
+
+Données extraites: {'engagementLabourRightsStakeholders': "Mieux comprendre les risques / impacts en question"}
+
+Answer context:
+
+* Page 2 : "Les actions de soutien de Gucci auprès de ses fournisseurs dans la mise en œuvre de solutions pour réduire leur consommation d'énergie."
+* Page 3 : "Le programme 'Sviluppo filiere' de Gucci, lancé en 2020 en collaboration avec la banque Intesa Sanpaolo."

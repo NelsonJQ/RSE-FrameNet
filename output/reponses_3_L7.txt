@@ -1,0 +1,7 @@
+Explication = According to the report, Kering does not provide a specific percentage of women occupying director positions for the period under review. However, it is mentioned that the Group has implemented initiatives to promote diversity and inclusion, including increasing the representation of women in leadership positions.
+
+Données extraites = ('WomenInDirection': ?)
+
+Answer context = []
+
+Note: As the report does not provide a specific percentage of women occupying director positions, I left the 'Données extraites' field empty.

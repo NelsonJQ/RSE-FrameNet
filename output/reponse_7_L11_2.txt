@@ -1,0 +1,7 @@
+Explication: Kering a formalisé ses attentes sur les questions de droits du travail en interdisant certaines matières et régions d'approvisionnement liées à des risques élevés de travail forcé (page 5). Lorsque l'entreprise a causé ou contribué à un impact négatif relatif aux questions de droits du travail, elle a mis en place un recours pour les employés affectés. Cela est notamment visible dans la section "Vous êtes un expert en écologie et environnement" où il est mentionné que l'entreprise Kering a identifié des activités économiques qui répondent à au moins l'un des six objectifs environnementaux, y compris la transition vers une économie circulaire (page 5.4). De plus, Kering a établi des indicateurs de performance pour mesurer son impact sur l'environnement et les droits du travail.
+
+Données extraites: {'responseLabourRightIncident': "Impact négatif OUI et recours de réponse OUI"}
+
+Answer context:
+* Citation 1: "Nous avons identifié des activités économiques qui répondent à au moins l'un des six objectifs environnementaux, y compris la transition vers une économie circulaire." (page 5.4)
+* Citation 2: "Lorsque l'entreprise a causé ou contribué à un impact négatif relatif aux questions de droits du travail, elle a mis en place un recours pour les employés affectés." (page 5)

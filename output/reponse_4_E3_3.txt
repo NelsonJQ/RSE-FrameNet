@@ -1,0 +1,5 @@
+Explication = L'entreprise Kering a adopté plusieurs mesures pour prévenir et atténuer les risques associés à l'utilisation des emballages en plastique. 
+
+Données extraites = ("preventionImpact": "Suppression progressive des emballages en plastique, remplacement par des matériaux plus durables tels que le papier et le coton, mise en place d'un outil d'éco-conception pour accompagner les équipes dans la mise en œuvre opérationnelle des Kering Standards.")
+
+Answer_context = ["Il est à noter que l’utilisation de plastique compostable n’est pas considérée comme une solution viable pour le Groupe, ces matières n’ayant pas démontré de bénéfices environnementaux spécifiques." (page source), "Les Maisons portent une attention particulière aux emballages du e-commerce." (page source)]

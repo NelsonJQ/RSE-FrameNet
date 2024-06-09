@@ -1,0 +1,8 @@
+Explication = Kering a élaboré une politique environnementale sur l'énergie et les ressources. Selon la page 3 du rapport ESG, le Groupe s'est engagé à réduire ses émissions de carbone de 50% d'ici 2025 par rapport aux niveaux de 2019. Pour atteindre cet objectif, Kering utilise des sources d'énergie renouvelables et optimise ses processus industriels pour réduire la consommation d'énergie.
+
+Données extraites = ("politiqueEnvironnementale": "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer context:
+[3] Le Groupe Kering est engagé à atteindre un objectif de réduction des émissions de carbone de 50% d'ici 2025 par rapport aux niveaux de 2019. [1] Nous utilisons des sources d'énergie renouvelables et optimisons nos processus industriels pour réduire la consommation d'énergie.
+
+Note: Les citations littérales [1] et [3] font référence au texte original du rapport ESG, page 3 et page non précisée respectivement.

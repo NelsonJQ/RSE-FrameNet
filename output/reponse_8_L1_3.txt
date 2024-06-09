@@ -1,0 +1,10 @@
+Explication:
+
+L'entreprise Kering a élaboré une politique d'engagement en ce qui concerne les principes suivants relatifs aux droits du travail. Selon le rapport, la société a des politiques et des procédures en place pour garantir le respect de ces principes (p. 1). Les informations sont fournies sur la réparation, remise en état et reconditionnement, ainsi que la vente de produits de seconde main, avec pour objectif la transition vers une économie circulaire (p. 5).
+
+Données extraites:
+
+('engagementLabourRights': "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer context:
+[p. 1] "L'entreprise Kering a des politiques et des procédures en place pour garantir le respect de ces principes"

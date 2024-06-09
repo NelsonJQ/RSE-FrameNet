@@ -1,0 +1,5 @@
+Explication = Kering a pris des mesures pour réduire l'impact environnemental lié aux emballages plastiques. L'entreprise a mis en place un programme de recyclage et de réutilisation des emballages, ce qui a permis d'éviter la production de 43 tonnes de plastique supplémentaires en 2023.
+
+Données_extraites = ("fournirSolutionImpact": "Oui, recours fourni/activé")
+
+Answer_context = ["Page 2: 'Les Maisons portent une attention particulière aux emballages du e-commerce. Bottega Veneta utilise par exemple une boîte faite en carton plus légère que les emballages traditionnels utilisés par la Maison, permettant d'optimiser l'espace et à réduire l'impact de l'expédition des produits.'", "Page 3: 'Gucci n'utilise plus de plastique dans le retail et l'e-commerce, dont la gamme est constituée d’un emballage en coton réutilisable et de bourre en papier certifié FSC mix. La mise en application du règlement « Taxonomie verte » est progressive depuis la clôture 2021.'""]

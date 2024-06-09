@@ -1,0 +1,9 @@
+Explication = Hermès a adopté plusieurs mesures pour prévenir et atténuer les risques et impacts environnementaux associés à ses activités. Dans ce contexte, l'entreprise a rejoint l'initiative "Responsible Beauty Initiative" pilotée par EcoVadis pour développer des plans d'action répondant aux enjeux propres à son secteur d'activité. Elle a également rejoint l'initiative "Action for Sustainable Derivatives", une collaboration cogérée et animée par BSR et Transitions, qui vise à améliorer la traçabilité de la filière des dérivés de palme et les pratiques et conditions tout au long de la chaîne d'approvisionnement.
+
+Hermès a également mis en place un programme LIFE 360 pour les Maisons de Mode et Maroquinerie, qui vise à intégrer la traçabilité du cuir via le score établi dans le cadre des audits du standard Leather Working Group. La coordination cuir LVMH réunissant toutes les Maisons de Mode et Maroquinerie se tient deux fois par an. Des objectifs de certification des matières premières comme le coton ou le cuir ont été fixés dans le cadre du programme LIFE 360, les résultats sont présentés dans la partie "Environnement et durabilité", §3.1.2 Principaux résultats Biodiversité en 2023.
+
+Enfin, l'entreprise a mis en place un processus d'audit et de plan de mesures correctives pour garantir que ses pratiques environnementales soient alignées sur les critères de contribution substantielle et des DNSH. Aucune extrapolation des conclusions atteintes sur une Capex n'a été effectuée à une autre Capex immobilière.
+
+Donnes_extraites = {"preventionImpact": "Formation interne / renforcement des capacités pour les salariés", "données_extraites": "Audit et plan de mesures correctives"}
+
+Answer_context = [Note 1.17, Note 9, Note 14 Trésorerie et équivalents de trésorerie, §3.1.2 Principaux résultats Biodiversité en 2023]

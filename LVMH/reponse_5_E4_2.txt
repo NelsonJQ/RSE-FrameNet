@@ -1,0 +1,7 @@
+Explication = LVMH évalue les progrès accomplis dans la prévention et l'atténuation des risques associés à l'eau en utilisant une méthodologie mises à jour chaque année, avec les données les plus avancées. Cette évaluation permet d'identifier et de quantifier les impacts eau les plus significatifs sur l'ensemble de la chaîne de valeur du Groupe.
+
+Données extraites = "preventionImpact": 'Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)'
+
+Citation 1: LVMH réalise depuis plus de 5 ans des empreintes eau et biodiversité mises à jour chaque année avec les méthodologies les plus avancées.
+
+Source: Hermès - Étude d'impact environnemental (page non spécifiée)

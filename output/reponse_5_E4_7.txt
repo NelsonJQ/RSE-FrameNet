@@ -1,0 +1,9 @@
+Explication = L'entreprise Kering évalue les progrès accomplis dans la prévention/l'atténuation des risques/impacts associés aux questions environnementales suivantes en fixant des cibles/objectifs annuels et en suivant les progrès au fil du temps. Selon le rapport d'enregistrement universel 2023 de Kering, l'évaluation des progrès est réalisée pour les scopes 1 et 2, qui représentent respectivement les émissions de CO2 liées aux transports et à l'énergie dans les opérations du Groupe (p. 232).
+
+Les cibles/objectifs annuels sont fixés pour atteindre une réduction des émissions de CO2 de 20% en 2025 par rapport à 2022, ce qui reflète l'engagement du Groupe en faveur d'une transition durable vers les sources d'énergie renouvelables (p. 232).
+
+Les progrès accomplis sont suivis au fil du temps pour s'assurer que les objectifs sont atteints ou surpassés, ce qui permet de réajuster les stratégies et les actions pour améliorer l'environnementalité des opérations du Groupe (p. 232).
+
+Donnes_extraites = ("evaluationPrevention": "Fixation de cibles/objectifs annuels, suivi des progrès au fil du temps (uniquement programmes internes)")
+
+Answer_context = ["Kering travaille notamment sur les axes suivants afin de sécuriser ses approvisionnements à long terme et soutenir les solutions fondées sur la nature", "Les pratiques mises en place (minimisation du travail du sol, rotation des cultures, maintien d'une couverture végétale) améliorent la santé des sols et leur capacité à séquestrer le carbone, à retenir l'eau et à soutenir la biodiversité"]

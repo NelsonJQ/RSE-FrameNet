@@ -1,0 +1,11 @@
+Explication = 
+
+L'entreprise Hermès a pris des mesures pour améliorer l'équilibre entre la vie professionnelle et la vie privée de ses employés. Les Maisons du Groupe ont développé un ensemble d'initiatives pour instaurer une bonne qualité de vie au travail, en répondant aux attentes croissantes des collaborateurs pour leur bien-être physique et moral.
+
+Les initiatives mises en place comprennent l'aménagement des conditions et la flexibilité du temps de travail, ainsi que des programmes d'audit pour garantir des conditions de travail acceptables dans les filières de production. Par exemple, le groupe Hermès a rejoint l'initiative "Responsible Beauty Initiative" pilotée par EcoVadis pour développer des plans d'action répondant aux enjeux propres à leurs activités.
+
+En outre, l'entreprise Hermès a mis en place un programme LIFE 360 qui vise à améliorer la traçabilité du cuir et du coton, deux matières premières clés dans les filières de production. Les objectifs de certification des matières premières ont été fixés dans le cadre de ce programme.
+
+Donnes_extraites = ('responseLabourRightIncident': "Impact négatif NON, alors recours de réponse non nécessaire")
+
+Answer_context = [citation1: L'entreprise Hermès a développé un ensemble d'initiatives pour instaurer une bonne qualité de vie au travail, en répondant aux attentes croissantes des collaborateurs pour leur bien-être physique et moral. (p. 3)]

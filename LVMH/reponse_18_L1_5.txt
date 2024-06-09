@@ -1,0 +1,5 @@
+Explication: LVMH a élaboré une politique d'engagement concernant les principes relatifs aux droits du travail. Selon le texte, l'entreprise a mis en place des initiatives pour améliorer la traçabilité de ses approvisionnements, notamment dans les filières cuir et coton. Elle a également rejoint plusieurs initiatives telles que "Responsible Beauty Initiative", "Responsible Mica Initiative" et "Action for Sustainable Derivatives". Ces initiatives ont pour objectif d'améliorer les pratiques et conditions de travail tout au long de la chaîne d'approvisionnement.
+
+Données extraites: {'engagementLabourRights': 'Oui, compris dans une politique plus large ou en tant que politique autonome'}
+
+Answer_context: [Le texte ne cite pas directement les principes relatifs aux droits du travail, mais il est possible de conclure que l'entreprise a une politique d'engagement pour améliorer la traçabilité et les pratiques de travail.]

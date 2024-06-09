@@ -1,0 +1,10 @@
+Explication:
+
+According to the report, the percentage of the company's revenue invested in research and development (R&D) for environmentally respectful products/services is not explicitly stated. However, we can infer that R&D investments are not separately reported under "Activités éligibles à la taxonomie" or "Activités non éligibles à la taxonomie". This suggests that the company's R&D efforts may be included in other categories.
+
+Data extracted:
+
+* `investRDecoProd`: Not applicable (n.a.) as R&D investments are not separately reported.
+
+Answer context:
+- [Note: The report does not provide a specific percentage for R&D investments in environmentally respectful products/services.]

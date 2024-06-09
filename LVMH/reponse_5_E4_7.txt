@@ -1,0 +1,7 @@
+Explication = 
+
+Hermès évalue les progrès accomplis dans la prévention ou l'atténuation des risques et impacts associés aux questions environnementales suivantes en utilisant une méthodologie intégrée à travers plusieurs dimensions. Selon la page 3, l'entreprise utilise le score environnemental PEF (Product Environmental Footprint) pour évaluer les impacts de ses opérations sur l'environnement. De plus, selon la page 5, Hermès évalue également les progrès accomplis dans la prévention des risques et impacts en utilisant l'Indice de Performance Environnementale (IPE), qui prend en compte plusieurs critères tels que le poids et le volume de l'emballage, son contenu en matières premières recyclées et biosourcées, sa recyclabilité et sa rechargeabilité.
+
+Données extraites = {"evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)"}
+
+Answer context = [citation 1: Page 3 - "Le Groupe s'engage à proposer une dynamique d'évolution professionnelle par le biais d'initiatives qui s'inscrivent dans le cadre de la gestion prévisionnelle des emplois et des compétences"], [citation 2: Page 5 - "L'IPE intègre plusieurs critères comme le poids et le volume de l'emballage, son contenu en matières premières recyclées et biosourcées, sa recyclabilité et sa rechargeabilité."], [citation 3: Page 5 - "La méthodologie de calcul de l'IPE a été mise à jour afin de l'aligner avec les objectifs LIFE 360 et les différentes réglementations."]

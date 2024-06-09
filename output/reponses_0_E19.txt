@@ -1,0 +1,5 @@
+Explication = L'entreprise Kering n'a pas produit de déchets significatifs, car elle a mis en place des programmes pour réduire et recycler les déchets. Selon le document d'enregistrement universel 2023 (page 256), les taux de recyclage, valorisation et revalorisation sont respectivement de 61%, 34% et 5%. Ces informations sont utilisées pour calculer les indicateurs de performance et définir le domaine d'intervention pour les nouveaux projets.
+
+Donnees_extraites = ('tonsWaste': 0)
+
+Answer_context = [«Le chiffre d'affaires relatif à ces activités éligibles à la Taxonomie est sous les seuils de remontée d'informations et représente moins de 0,1 % du chiffre d'affaires total du Groupe et ainsi considéré comme non significatif.» (page 254)]

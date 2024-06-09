@@ -1,0 +1,11 @@
+Explication = 
+
+LVMH has taken steps to support adaptation and resilience to climate action. The company has developed a platform digital allowing the evaluation and visualization of its sites' vulnerability to 28 climatic hazards. This platform enables the identification and quantification of significant impacts on water and biodiversity throughout the Group's value chain.
+
+In addition, LVMH has been tracking its water and biodiversity footprints for over 5 years using advanced methodologies. These footprints provide insights into the most significant impacts on water and biodiversity across the Group's value chain.
+
+The company also participates in the work of the Task Force on Nature-related Financial Disclosures (TNFD), which aims to develop a framework for identifying and measuring dependencies and financial impacts on nature and biodiversity.
+
+Donnes_extraites = ("resilience": TRUE)
+
+Answer_context = [citation du texte : "LVMH s’est doté d’une plateforme digitale permettant d’évaluer et de visualiser la vulnérabilité de ses sites face à 28 aléas climatiques ;", citation2 : "LVMH réalise depuis plus de 5 ans des empreintes eau et biodiversité mises à jour chaque année avec les méthodologies les plus avancées.", citation3 : "LVMH participe aux travaux de la TNFD dont l’objectif est de développer un cadre pour identifier et mesurer les dépendances et impacts financiers des activités sur la nature et la biodiversité."]

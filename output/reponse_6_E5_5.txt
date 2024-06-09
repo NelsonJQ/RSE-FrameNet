@@ -1,0 +1,10 @@
+Explication: Kering a mis en place des solutions pour réduire l'impact environnemental lié à la pollution de l'air. L'une de ces solutions est la suppression des emballages en plastique à usage unique, qui constitue une priorité pour le groupe. Selon les standards Kering, il est prévu de supprimer ces emballages dans le secteur BtoC et de remplacer le plastique par d'autres matériaux, tels que du papier. Pour le secteur BtoB, il est prévu de choisir des emballages réemployables ou circulaires, ce qui devrait réduire les déchets dangereux.
+
+Données extraites: {"fournirSolutionImpact": "Oui, recours fourni/activé"}
+
+Answer context:
+[Citation 1: "Les Maisons portent une attention particulière aux emballages du e-commerce."]
+[Citation 2: "Kering considère la suppression des emballages en plastique à usage unique dans le secteur comme une priorité et s’est fixé comme objectif ambitieux de les supprimer d’ici 20 25."]
+[Citation 3: "La production de déchets est directement liée à l’intensité de l’activité de distribution."]
+
+Note: Les citations littérales sont des extractions du texte original fourni.

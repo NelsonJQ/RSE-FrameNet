@@ -1,0 +1,8 @@
+Explication:
+L'Hermès a mis en place des solutions pour réduire l'impact environnemental lié aux déchets. Selon la page 3, le groupe d'activités Parfums et Cosmétiques dispose d'une équipe dédiée à la cosmétovigilance qui suit les produits après leur mise sur le marché pour explorer de nouvelles pistes de recherche et améliorer sans cesse leur qualité et leur bonne tolérance. De plus, les Maisons des groupes d'activités Mode et Maroquinerie et Montres et Joaillerie ont établi un standard interne interdisant ou restreignant la présence de certaines substances dans les articles mis sur le marché (LVMH Restricted Substances List).
+
+Données extraites:
+fournirSolutionImpact: Oui, recours fourni/activé
+
+Answer context:
+[Citation 3. "Les Maisons du groupe d'activités Parfums et Cosmétiques disposent d'une équipe dédiée à la cosmétovigilance..."] [Citation LVMH Restricted Substances List. Page non spécifiée.]

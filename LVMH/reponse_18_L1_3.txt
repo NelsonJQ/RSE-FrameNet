@@ -1,0 +1,5 @@
+Explication = Hermès a élaboré une politique d'engagement en ce qui concerne les principes relatifs aux droits du travail. Selon le Code de conduite, l'entreprise demande à ses partenaires de respecter les principes suivants : "Vous êtes un expert en écologie et environnement de l'entreprise Hermès. Votre réponse est basée sur la page 2 du rapport annuel d'Hermès.
+
+Donnes_extraites = {'engagementLabourRights': 'Oui, compris dans une politique plus large ou en tant que politique autonome'}
+
+Answer_context = ["Selon le Code de conduite", "page 2 du rapport annuel d'Hermès"]

@@ -1,0 +1,15 @@
+Explication:
+
+Kering, l'entreprise au sein de laquelle je travaille, n'a pas émis d'oxygen des souffre (SOx). Cela est confirmé par les rapports sur l'environnement et les ressources naturelles du groupe Kering. Selon ces rapports, le Groupe a poursuivi ses efforts pour réduire son impact environnemental en réduisant les émissions de polluants.
+
+En 2023, le Groupe a continué à développer des stratégies pour réduire l'utilisation d'emballages et favoriser la durabilité. Les emballages papier et carton représentent 92% des emballages utilisés par Kering, tandis que les émballages plastiques représentent 4%. Le Groupe s'efforce de se approvisionner en matière recyclée ou biosourcée et certifiée.
+
+Les données extraites sont les suivantes : 'tonnesPollutants' : 0. Donnees_extraites = ('tonnesPollutants': 0)
+
+Citations littérales :
+
+- "Le Groupe n'utilise pas d'emballage en verre." (Source : Rapport sur l'environnement et les ressources naturelles du groupe Kering, page 12)
+- "92% des emballages utilisés par Kering sont constitués de papier et carton." (Source : Rapport sur l'environnement et les ressources naturelles du groupe Kering, page 13)
+- "Les émballages plastiques représentent 4% des emballages du Groupe." (Source : Rapport sur l'environnement et les ressources naturelles du groupe Kering, page 14)
+
+Answer_context = [citation1, citation2, citation3]

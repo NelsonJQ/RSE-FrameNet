@@ -1,0 +1,5 @@
+Explication = Hermès a pris des mesures pour minimiser son impact sur les questions de droits du travail. Selon le rapport de gestion du Conseil d'administration, la direction des risques et assurances Groupe est impliquée dans le recensement des risques et la prévention des incidents, ce qui inclut la prise en compte des pratiques laborieuses (p. 4). De plus, les Maisons de Parfums et Cosmétiques ont rejoint l'initiative "Responsible Beauty Initiative" pour développer des plans d'action répondant aux enjeux propres à leurs activités (p. 5).
+
+Données extraites = ('responseLabourRightIncident': 'Impact négatif NON, alors recours de réponse non nécessaire')
+
+Answer_context = [Citation 1: "La direction des risques et assurances Groupe est impliquée dans le recensement des risques et la prévention des incidents...", p. 4; Citation 2: "Les Maisons de Parfums et Cosmétiques ont rejoint l'initiative 'Responsible Beauty Initiative'", p. 5]

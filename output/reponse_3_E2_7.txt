@@ -1,0 +1,5 @@
+Explication = Kering s'est engagé auprès des parties prenantes affectées ou de leurs représentants légitimes pour les questions environnementales liées à l'énergie et aux ressources. Ainsi, le groupe a développé un outil d'éco-conception pour accompagner les équipes dans la conception de produits durables et réutilisables. De plus, Kering a investi dans des solutions innovantes pour le recyclage chimique de la cellulose, tels que le projet Full Circle Textiles Project, en collaboration avec Fashion For Good.
+
+Donnes_extraites = ("engagementStakeholders": "Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question")
+
+Answer_context = ["Dans la réponse au CDP Forests 2023, Kering a obtenu le score de A- pour la catégorie Timber." (source: page 1), "Kering a développé un outil d'éco-conception pour accompagner les équipes dans la conception de produits durables et réutilisables" (source: page 2)]

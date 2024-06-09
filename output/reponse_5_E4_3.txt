@@ -1,0 +1,5 @@
+Explication = L'entreprise Kering évalue les progrès accomplis dans la prévention et l'atténuation des risques et impacts associés aux questions environnementales, notamment en ce qui concerne les océans, au travers de plusieurs initiatives. Elle a mis en place un programme d'éco-conception pour accompagner ses équipes dans la mise en œuvre opérationnelle des Kering Standards (p. 2). De plus, elle utilise des emballages réemployables et recyclables pour réduire l'impact de son activité sur les océans.
+
+Données_extraites = {"evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)"}
+
+Answer_context = [La Maison utilise par exemple une boîte faite en carton plus légère que les emballages traditionnels utilisés par la Maison, permettant d'optimiser l'espace et à réduire l'impact de l'expédition des produits. (p. 3), Kering produit essentiellement des déchets d'emballages. La production de déchets est directement liée à l'intensité de l'activité de distribution. (p. 5)]

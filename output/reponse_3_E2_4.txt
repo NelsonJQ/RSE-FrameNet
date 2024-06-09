@@ -1,0 +1,5 @@
+Explication = L'entreprise Kering s'est engagée auprès des parties prenantes affectées ou de leurs représentants légitimes pour les questions environnementales suivantes : Forêts / Biodiversité / Utilisation des terres. Selon la source, Kering suit très largement les exigences de Canopy, ONG dédiée à la protection des forêts, des espèces et du climat (p. [non spécifié]). Le Groupe et ses Maisons s'approvisionnent en priorité auprès de fournisseurs ayant atteint le niveau « vert foncé » ou « dark green » selon la méthodologie du Canopy Hot Button Ranking, ainsi qu'en fibre cellulosique certifiée FSC (p. [non spécifié]). Kering investigate également plusieurs technologies de recyclage et s'est associé à Fashion For Good pour le projet Full Circle Textiles Project: Scaling Innovations in Cellulosic Recycling pour étudier des solutions économiquement viables et pouvant passer à grande échelle pour le recyclage chimique de la cellulose (p. [non spécifié]).
+
+Données_extraites = ("engagementStakeholders": "Convenir d'un moyen de prévenir / atténuer les risques / impacts en question")
+
+Answer_context = ["Canopy", "FSC"]

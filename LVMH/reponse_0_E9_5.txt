@@ -1,0 +1,12 @@
+Explication:
+
+Hermès, like many organizations, has taken steps to support adaptation and resilience in the face of climate change. One example is the company's commitment to reducing its carbon footprint by 50% absolute value over services related to client relationships that allow for analysis of any complaint, including those related to undesirable effects (DEU: Reduce CO2 emissions by 50% absolute value). This commitment is reflected in Hermès' strategy to reduce its energy consumption and increase the use of renewable energy sources.
+
+Another example is the company's efforts to promote sustainable supply chain practices. For instance, Hermès has joined the ZDHC (Zero Discharge of Hazardous Chemicals) organization, which aims to deploy best practices for using hazardous substances and improving wastewater treatment at production sites in the textile and leather industries (LVMH: Joining ZDHC).
+
+Additionally, Hermès' Maisons have implemented internal standards that prohibit or restrict the use of certain substances in their products and require suppliers to adhere to these standards. For example, LVMH's Restricted Substances List prohibits the use of certain chemicals in its products (LVMH: LVMH Restricted Substances List).
+
+Données_extraites: ("resilience": TRUE)
+
+Answer_context:
+[DEU: Reduce CO2 emissions by 50% absolute value; LVMH: Joining ZDHC; LVMH: LVMH Restricted Substances List]

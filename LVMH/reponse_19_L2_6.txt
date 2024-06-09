@@ -1,0 +1,5 @@
+Explication: According to the Hermès company's environmental and ecological expertise, there is no specific engagement with stakeholders regarding labor rights during the reporting period. The report does not mention any initiatives or actions taken by the company to address labor rights concerns.
+
+Données_extraites = ('engagementLabourRightsStakeholders': "Aucun engagement sur ce sujet")
+
+Answer_context = [LVMH has remunerated 1,750 million euros in 2020 and 800 million euros and 400 million pounds sterling in 2017. Swaps covering associated with these debt securities have been settled concurrently with the redemptions.]

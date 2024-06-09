@@ -1,0 +1,5 @@
+Explication: LVMH a pris des mesures pour réduire son impact environnemental lié à la pollution de l'air. Selon le rapport, l'entreprise a lancé un plan de sobriété énergétique en septembre 2022 pour contribuer à l'effort national français et réduire sa consommation énergétique globale (p. 5.2). De plus, LVMH a également mis en place des initiatives pour réduire son impact carbone, telles que l'utilisation du Fonds carbone de LVMH qui a généré des innovations à hauteur d'environ 20 millions d'euros et évitéait plus de 256 000 t eqCO2 (p. 1.1.2). Enfin, l'entreprise a également rejoint l'initiative "SolarTogether" de Florida Power & Light pour atteindre 100% d'énergie renouvelable dans les boutiques du Miami Design District (p. 5).
+
+Donnees_extraites = {"fournirSolutionImpact": "Oui, recours fourni/activé"}
+
+Answer_context = [citations littérales de la source que j'ai utilisées pour répondre]

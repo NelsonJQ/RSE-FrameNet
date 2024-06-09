@@ -1,0 +1,6 @@
+Explication = Kering s'est engagé auprès des parties prenantes affectées ou de leurs représentants légitimes concernant les questions relatives aux droits du travail. Dans le rapport, il est mentionné que le Groupe a revu sa cartographie des risques et notamment les risks d'atteintes graves envers les droits humains et les libertés fondamentales, la sécurité et santé des personnes et l'environnement (page 2). Cela montre que Kering prend au sérieux les questions relatives aux droits du travail et s'est engagé à prévenir ou atténuer ces risques.
+
+Données extraites = ('engagementLabourRightsStakeholders': "Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question")
+
+Answer context:
+[1] (page 2) "Le Groupe a revu sa cartographie des risques et notamment les risks d'atteintes graves envers les droits humains et les libertés fondamentales, la sécurité et santé des personnes et l'environnement."

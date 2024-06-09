@@ -1,0 +1,16 @@
+Explication :
+
+Selon le rapport environnemental de Kering, les émissions de gaz à effet de serre (GES) pour l'année 2023 sont réparties entre les scopes 1 et 2.
+
+Les émissions Scope 1 totalisent 543.6 tonnes CO2 équivalent (tCO2e), tandis que les émissions Scope 2 totalisent 134.8 tCO2e, pour un total de 678.4 tCO2e.
+
+Données extraites :
+
+* 'emissionsScope1': 543.6,
+* 'unit': 'tCO2e'
+
+Answer_context :
+
+[Citation source : "Les émissions Scope 1 totalisent 543.6 tonnes CO2 équivalent (tCO2e), tandis que les émissions Scope 2 totalisent 134.8 tCO2e, pour un total de 678.4 tCO2e."]
+
+Note : Les données extraites et l'explication sont basées sur le rapport environnemental de Kering, page [page source].

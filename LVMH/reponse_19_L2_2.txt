@@ -1,0 +1,7 @@
+Explication = Hermès, un expert en écologie et environnement, a engagé des parties prenantes affectées ou leurs représentants légitimes concernant les questions relatives aux droits du travail. L'entreprise a notamment mis en place des Comités Sociaux et Économiques (CSE) pour permettre la signature d'accords entre les salariés et l'entreprise. Ainsi, 201 accords ont été signés en France en 2023.
+
+Donnees_éxtraites = ('engagementLabourRightsStakeholders': 'Mieux comprendre les risques / impacts en question') 
+
+Answer_context = [Page 6, "Les Maisons du Groupe ont développé un ensemble d'initiatives pour instaurer une bonne qualité de vie au travail."]
+
+Note: Les informations fournies montrent que l'entreprise Hermès a engagé des parties prenantes affectées ou leurs représentants légitimes concernant les questions relatives aux droits du travail, en particulier via la mise en place des Comités Sociaux et Économiques (CSE) et la signature d'accords entre les salariés et l'entreprise.

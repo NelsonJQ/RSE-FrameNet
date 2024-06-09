@@ -1,0 +1,9 @@
+Explication:
+
+According to the text, Kering has not explicitly elaborated a policy regarding labour rights. The section "Nombre de travailleurs handicapés" mentions that Lindberg, which represents 1.8% of the group's workforce, was integrated into the social reporting perimeter from 2022. However, there is no mention of a specific policy or commitment to uphold certain labour rights.
+
+Données extraites: {'engagementLabourRights': 'Non'}
+
+Answer context:
+
+This response is based on the text provided, which does not explicitly mention Kering's policy regarding labour rights. The fact that Lindberg was integrated into the social reporting perimeter from 2022 suggests that the company may have some sort of commitment to employees with disabilities, but this is not explicitly stated as a policy related to labour rights.

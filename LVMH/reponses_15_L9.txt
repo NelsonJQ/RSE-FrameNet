@@ -1,0 +1,11 @@
+Explication:
+
+According to the Hermès Sustainability Report, the frequency of workplace injuries during the reporting period is not explicitly stated. However, we can infer that the company prioritizes worker safety and well-being by implementing a quality control process, conducting audits on its suppliers, and having a dedicated team for cosmetics vigilance. This suggests that the company takes steps to prevent injuries from occurring.
+
+Data extracted:
+
+'InjuresPerWorkedHour': (no data available)
+
+Answer context: [None]
+
+Note: Since there is no specific information provided regarding workplace injuries or frequency of accidents during the reporting period, we cannot provide a numerical answer. However, we can infer that Hermès prioritizes worker safety and well-being through its quality control process and audits on suppliers.

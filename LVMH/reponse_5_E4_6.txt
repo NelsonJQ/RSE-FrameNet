@@ -1,0 +1,10 @@
+Explication: Hermès évalue les progrès accomplis dans la prévention de la pollution liée aux déchets en fixant des objectifs annuels et en suivant les progrès au fil du temps. Selon les données publiques, l'entreprise a généré 125 095 tonnes de déchets en 2023, dont 86% sont considérés comme dangereux (p. ex., déversements de produits chimiques, déchets solides, plastiques, etc.) (§5.5). Les objectifs LIFE 360 de l'entreprise visent à réduire les émissions et les déchets par rapport aux objectifs précédents (§2. à 5.).
+
+Données extraites: ("evaluationPrevention": "Examiner les problèmes sur une base ad hoc")
+
+Answer context:
+
+* Hermès a fixé des objectifs LIFE 360 pour réduire les émissions et les déchets (§2. à 5.).
+* L'entreprise évalue les progrès accomplis dans la prévention de la pollution liée aux déchets en fixant des objectifs annuels et en suivant les progrès au fil du temps (§5.5).
+
+Note: Les citations littérales utilisées pour répondre sont issues de la source fournie, notamment les sections 2 à 5 et 5.5.

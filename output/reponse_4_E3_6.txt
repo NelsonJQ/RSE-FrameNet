@@ -1,0 +1,5 @@
+Explication = Kering a adopté une mesure de formation interne et de renforcement des capacités pour les salariés pour prévenir et atténuer les risques associés aux déchets. Le programme de formation à l'éthique et au Code d'éthique du Groupe, baptisé « Ethics & Compliance e-learning program », est mis en œuvre depuis 2014 et couvre les principes éthiques défendus par le Code d'éthique du Groupe, notamment la lutte contre la corruption. Cette formation rappelle également à tous les employés chaque année l'existence et le mode de fonctionnement du système d'alerte éthique du Groupe.
+
+Données_extraites = ("preventionImpact": "Formation interne / renforcement des capacités pour les salariés")
+
+Answer_context= ["Formation interne et renforcement des capacités pour les salariés sont essentielles pour prévenir et atténuer les risques associés aux déchets", "Le programme de formation à l'éthique et au Code d'éthique du Groupe est mis en œuvre depuis 2014" (p. 238 KERING - Document d'enregistrement universel 2023 +)

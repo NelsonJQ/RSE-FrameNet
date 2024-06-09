@@ -1,0 +1,10 @@
+Explication: L'entreprise Hermès a élaboré des politiques environnementales pour aborder différents aspects de l'environnement. Selon la source, les Maisons (Hermès) poursuivent le déploiement du programme ZDHC avec les fournisseurs cibles ayant recours à des procédés humides. Cela concerne notamment les déchets, qui sont mentionnés dans la section "Déchets issus de métaux" et "PLV, déchets d'emballages, produits obsolètes et invendus".
+
+Données extraites: ("politiqueEnvironnementale": "Oui")
+
+Answer context:
+
+- "Les audits uniquement environnementaux ont représenté 14 %."
+- "Les Maisons poursuivent le déploiement du programme ZDHC avec les fournisseurs cibles ayant recours à des procédés humides."
+
+Note: La source n'offre pas de réponse directe sur la politique environnementale concernant les déchets, mais elle mentionne que l'entreprise est engagée dans un programme de réduction des impacts environnementaux, y compris les déchets.

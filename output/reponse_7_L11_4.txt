@@ -1,0 +1,5 @@
+Explication = Kering a pris des mesures pour garantir le respect des droits du travail au sein de ses Maisons. Selon la Charte sur les relations de travail et de bien-être des mannequins publiée en 2017, Kering promeut des standards élevés d'intégrité, de responsabilité et de respect vis-à-vis des personnes concernées (Page 2). Cette charte vise à promouvoir le respect de la dignité de toutes les personnes et à véhiculer une image positive auprès des publics des différentes Maisons du Groupe, notamment auprès des populations vulnérables. De plus, Gucci a mis en place un ensemble de directives en matière de marketing et de communication responsables pour éviter tout risque de déclarations de greenwashing potentielles.
+
+Donnees_extraites = ('responseLabourRightIncident': "Impact négatif NON, alors recours de réponse non nécessaire")
+
+Answer_context=[citation2="La Charte sur les relations de travail et de bien-être des mannequins publiée en 2017"]

@@ -1,0 +1,8 @@
+Explication = Kering a pris des mesures pour s'assurer que les déchets sont gérés de manière responsable. Dans le cadre de l'activité 7.2, le Groupe a vérifié que la préparation au minimum de 70 % en poids des déchets de construction est prévue pour le recyclage, du réemploi ou toute autre formule de valorisation (voir DNSH – Économie circulaire). De plus, Kering s'est assuré que les polluants listés dans l'appendice C de l'acte délégué climat n'ont pas été utilisés lors des investissements engagés notamment pour les Rénovations de bâtiments existants (7.2) et l'installation, la maintenance et la réparation d'équipements favorisant l'efficacité énergétique (7.3).
+
+Données extraites = ("engagementStakeholders": "Mieux comprendre les risques / impacts en question")
+
+Answer context:
+
+* DNSH – Économie circulaire: Kering s'est assuré sur chacun des travaux de rénovations de l'activité 7.2 de la préparation au minimum de 70 % en poids des déchets de construction en vue du recyclage, du réemploi ou toute autre formule de valorisation.
+* DNSH – Pollution: Kering s'est assuré que les polluants listés dans l'appendice C de l'acte délégué climat n'ont pas été utilisés lors des investissements engagés notamment pour les Rénovations de bâtiments existants (7.2) et l'installation, la maintenance et la réparation d'équipements favorisant l'efficacité énergétique (7.3).

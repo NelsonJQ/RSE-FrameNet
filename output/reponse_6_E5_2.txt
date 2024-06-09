@@ -1,0 +1,5 @@
+Explication = Kering a mis en place des actions pour réduire son impact environnemental lié à l'eau. L'entreprise a déployé un outil d'éco-conception pour aider les équipes à mettre en œuvre les Kering Standards, ce qui facilite la prise de décisions éclairées et responsables pour minimiser l'utilisation des ressources naturelles, notamment l'eau (p. 4). De plus, certaines Maisons du groupe, telles que Gucci, ont mis en place des solutions pour réduire leur impact environnemental lié à l'eau, comme par exemple la suppression de plastique dans le retail et l'e-commerce et l'utilisation d'emballages réutilisables (p. 5).
+
+Donnes_extraites = {"fournirSolutionImpact": "Oui, recours fourni/activé"}
+
+Answer_context=[citation du p. 4 : "Un outil d'éco-conception a été développé afin d’accompagner les équipes dans la mise en œuvre opérationnelle des Kering Standards", citation du p. 5 : "La Maison cascade également ses exigences à ses fournisseurs."].

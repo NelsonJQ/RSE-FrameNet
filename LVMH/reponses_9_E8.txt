@@ -1,0 +1,11 @@
+Explication:
+
+According to the Hermès Group's report, the company invests in research and development (R&D) for products/services respectful of the environment. However, the report does not provide a specific percentage of the revenue invested in R&D for eco-friendly products/services. Instead, it focuses on the overall investments made by the company.
+
+Donnees_extraites:
+
+'investRDecoProd': None (no data available)
+
+Answer_context:
+
+None (no relevant citation)

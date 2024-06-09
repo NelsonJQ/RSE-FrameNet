@@ -1,0 +1,5 @@
+Explication = Kering a engagé des parties prenantes affectées ou leurs représentants légitimes sur les questions relatives aux droits du travail, notamment en ce qui concerne le travail des enfants. Selon la page 14 de la rapport EP&L 2023, l'entreprise a adopté une approche proactive pour garantir le respect des droits du travail et des normes internationales en matière de travail des enfants.
+
+Données extraites = ('engagementLabourRightsStakeholders': 'Oui, Kering s\'est engagé avec les parties prenantes affectées ou leurs représentants légitimes sur les questions relatives aux droits du travail, notamment le travail des enfants.')
+
+Answer_context = [citation de la page 14 de la rapport EP&L 2023]

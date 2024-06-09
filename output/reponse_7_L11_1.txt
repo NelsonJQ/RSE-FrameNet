@@ -1,0 +1,9 @@
+Explication = 
+
+Kering a mis en place des outils et réseaux sociaux performants pour recruter les meilleurs profils. Les Maisons du Groupe investissent constamment pour proposer les meilleures expériences à leurs candidats via des propositions innovantes et inclusives, tels que la plateforme d'intégration MyBoucheron ou la campagne Dare to Refer offrant une prime de cooptation aux employés lorsque le recrutement de la personne référencée sera abouti. De plus, un parcours de formation au recrutement inclusif a été mis en place pour l'ensemble du Groupe, aidant les recruteurs et les managers à identifier les biais courants dans le processus de recrutement et à en minimiser les effets.
+
+Données extraites = ('responseLabourRightIncident': 'Impact négatif NON, alors recours de réponse non nécessaire')
+
+Answer_context = [citation littéraire : "Recruter les meilleurs professionnels Kering s'appuie sur les outils et réseaux sociaux les plus performants pour recruter les meilleurs profils." - page 4]
+
+Note: According to the provided text, there is no mention of an impact negative relative to labor rights issues. Therefore, I assume that the answer is 'Impact négatif NON, alors recours de réponse non nécessaire' (Negative impact NO, so no response necessary).

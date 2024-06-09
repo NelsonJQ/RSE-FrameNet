@@ -1,0 +1,7 @@
+Explication = Kering a mis en place une approche pour prévenir et atténuer les risques environnementaux liés aux forêts, à la biodiversité et à l'utilisation des terres. Selon le compte-rendu environnemental (EP&L) du Groupe, il est important de mesurer et quantifier les impacts environnementaux pour prendre des décisions éclairées.
+
+Données_extraites = ("preventionImpact": "Formation interne / renforcement des capacités pour les salariés")
+
+Answer_context = [Il permet à Kering et à ses Maisons de mesurer leurs impacts sur le capital naturel sur l'ensemble de leur chaîne de valeur d'abord en unité physique d'impact environnemental (ex : tonnes de CO2 équivalent, hectares de sols occupés, tonnes de polluants, etc), puis de leur attribuer une valeur monétaire. (Source: 5.1.1.1 Présentation de l'approche)]
+
+Note: Le compte-rendu environnemental EP&L est la mesure que Kering a adoptée pour prévenir et atténuer les risques environnementaux liés aux forêts, à la biodiversité et à l'utilisation des terres.

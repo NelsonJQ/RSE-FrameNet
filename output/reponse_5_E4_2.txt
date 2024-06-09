@@ -1,0 +1,5 @@
+Explication = L'entreprise Kering évalue les progrès accomplis dans la prévention et l'atténuation des risques liés à l'eau en fixant des objectifs annuels et en suivant les progrès au fil du temps. Selon la page 2, le groupe encourage l'utilisation d'eau non-potable pour certains usages techniques, comme l'entretien, et exige l'installation de systèmes de plomberie à faible consommation d'eau. Les Maisons du Groupe développent également des alternatives au plastique pour leurs emballages, ce qui contribue à réduire la quantité d'eau utilisée.
+
+Donnes_extraites = ("evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (uniquement programmes internes)")
+
+Answer_context = [page 2]

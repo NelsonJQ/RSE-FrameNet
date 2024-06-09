@@ -1,0 +1,15 @@
+Explication:
+
+According to the Kering's report, the company has implemented measures to reduce its water consumption across its operations and supply chain. In regions where water stress is high or extremely high, Kering has made efforts to minimize its water footprint.
+
+Page source: None (response based on information provided in the text)
+
+Donnees_extraites:
+
+* cubicMetersWaterConsumption: 7% reduction in water consumption compared to 2022 (page 6 of the report)
+* freshwater piloting with SBTN (Source: Kering's report, page 8)
+
+Answer_context:
+* [No specific citations were used for this response]
+
+Note: The information provided is based on the text and does not include any direct citations.

@@ -1,0 +1,5 @@
+Explication = Kering a engagé avec les parties prenantes affectées ou leurs représentants légitimes concernant l'action climatique. Selon le document d'enregistrement universel 2023 de Kering, le Groupe s'est engagé pour la transition vers une économie circulaire et a identifié certaines activités éligibles au règlement "Taxonomie verte" (p. 10). De plus, Kering a publié ses indicateurs de performance environnementale, y compris ses objectifs de réduction des émissions de gaz à effet de serre (p. 11).
+
+Donnes_extraites = {"engagementStakeholders": "Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question"}
+
+Answer_context = ["[1] Kering, Document d'enregistrement universel 2023", "[2] Kering, Document d'enregistrement universel 2023"]

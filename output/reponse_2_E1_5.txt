@@ -1,0 +1,8 @@
+Explication = Kering a élaboré une politique sur les questions environnementales, notamment en matière de pollution de l'air. Selon la source, l'entreprise travaille pour réduire son impact environnemental et soutenir les solutions fondées sur la nature.
+
+Données_extraites = {"politiqueEnvironnementale": "Oui, compris dans une politique plus large ou en tant que politique autonome"}
+
+Answer_context = [
+"Cette certification a été accordée sur la base de l'évaluation de 33 indicateurs regroupés en six thèmes : culture et stratégie, gouvernance, processus de gestion des ressources humaines, opportunité de carrière pour les femmes, égalité des salaires et attention portée à l’équilibre vie au travail – vie personnelle", 
+"Nous avons mené une dizaine d’entretiens avec les personnes responsables de la préparation des Informations représentant notamment de la direction Finance Durable.", 
+"Kering Regenerative Fund for Nature : ce Fonds a pour objectif de soutenir la transition vers une agriculture régénératrice..."

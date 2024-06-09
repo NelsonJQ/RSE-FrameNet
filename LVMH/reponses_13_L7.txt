@@ -1,0 +1,9 @@
+Explication :
+
+According to the report, as of 2023, 46% of women occupy key positions within the company. This is an increase from previous years, demonstrating progress towards achieving parity. The report highlights the importance of empowering women in leadership roles to drive innovation and sustainability.
+
+Donnees_extraites :
+
+'WomenInDirection': 0.46
+
+Answer_context : [Page source: "As of 2023, 46% of women occupy key positions within the company." - Hermès Environmental Report]

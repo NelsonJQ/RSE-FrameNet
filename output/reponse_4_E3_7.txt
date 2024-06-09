@@ -1,0 +1,6 @@
+Explication = Kering a adopté plusieurs mesures pour prévenir et atténuer les risques et impacts environnementaux liés à ses activités. Au cours de la période de reporting, l'entreprise a mis en place des processus d'audit et de contrôle pour s'assurer que ses tanneries utilisent des méthodes de tannage plus écologiques, telles que le tannage sans chrome et sans métaux lourds (p. 243).
+
+Données extraites = ("preventionImpact": "Réalisation d'un processus d'audit et / ou d'un plan de mesures correctives")
+
+Answer context:
+[La source mentionne que Kering a mis en place des processus d'audit pour s'assurer que ses tanneries utilisent des méthodes de tannage plus écologiques (p. 243).]

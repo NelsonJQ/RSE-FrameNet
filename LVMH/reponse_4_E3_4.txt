@@ -1,0 +1,14 @@
+Explication:
+
+LVMH a adopté plusieurs mesures pour prévenir et atténuer les risques et impacts associés à la déforestation, la biodiversité et l'utilisation des terres. Selon la page 3 du rapport, LVMH a quantifié l'intensité de déforestation potentielle liée à l'approvisionnement de trois matières premières (bois, dérivés du bois, dérivés d'huile de palme et cuir) en regard des pays d'origine et des pratiques de production. Cette mesure vise à mieux comprendre les risques et impacts associés à ces matières premières.
+
+La page 3 du rapport indique également que LVMH s'est engagé à éviter et réduire les impacts sur la biodiversité, notamment en ce qui concerne la déforestation. Le groupe a déployé une charte relative à l'approvisionnement responsable des matières premières animales pour garantir que les fournisseurs de LVMH respectent les normes élevées en matière d'éthique et d'environnement.
+
+Enfin, la page 3 du rapport souligne l'importance de l'intégrité territoriale et de la protection de la biodiversité. LVMH s'est engagé à prendre des mesures pour préserver les écosystèmes et protéger la biodiversité.
+
+Donnees_extraites:
+"preventionImpact": "Formation interne / renforcement des capacités pour les salariés"
+
+Answer_context: [Citations littérales de la source que vous avez utilisées pour répondre, citation2, citation3]
+
+Note: Les citations littérales sont à ajouter après l'explication.

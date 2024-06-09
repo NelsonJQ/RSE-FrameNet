@@ -1,0 +1,8 @@
+Explication:
+
+LVMH a engagé des parties prenantes affectées ou leurs représentants légitimes concernant les questions environnementales liées à l'énergie et aux ressources. Selon la page 4, le Groupe a créé un réseau de près de 200 correspondants Environnement issus des Maisons qui se réunit plusieurs fois par an lors des Commissions Environnement pour notamment échanger sur les bonnes pratiques. De plus, LVMH a soutenu la participation de ses collaborateurs aux marches des fiertés, sous le leadership de ses réseaux All LVMH Pride, dans plusieurs villes du monde, ce qui montre l'engagement du Groupe pour promouvoir l'inclusion et le respect.
+
+Données extraites:
+{"engagementStakeholders": "Mieux comprendre les risques / impacts en question; Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question"}
+
+Answer context: [Page 4, Page 6]

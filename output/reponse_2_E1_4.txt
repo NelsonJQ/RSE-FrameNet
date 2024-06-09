@@ -1,0 +1,5 @@
+Explication = Kering a élaboré une politique environnementale pour les forêts et la biodiversité. La politique vise à s'assurer que les matières premières utilisées par le groupe sont obtenues de manière durable et responsable.
+
+Les données extraites sont : "politiqueEnvironnementale": "Oui, compris dans une politique plus large ou en tant que politique autonome"
+
+Answer_context = ["La politique globale en matière de santé et de sécurité de Kering s’appuie sur les meilleures pratiques du Groupe. Elle a pour objectif de s’assurer que partout dans le Groupe une gouvernance est clairement mise en place...", "Kering travaille notamment sur les axes suivants afin de sécuriser ses approvisionnements à long terme et soutenir les solutions fondées sur la nature..."]

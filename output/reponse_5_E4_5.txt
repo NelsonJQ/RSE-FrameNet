@@ -1,0 +1,8 @@
+Explication = Kering évalue les progrès accomplis dans la prévention/atténuation des risques/impacts associés aux questions environnementales suivantes en fixant des objectifs annuels et en suivi les progrès au fil du temps. Par exemple, l'entreprise a défini comme objectif d'éliminer les emballages en plastique à usage unique dans le secteur BtoC et BtoB jusqu'en 2025.
+
+Données extraites = {"preventionImpact": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)"}
+
+Answer context:
+
+* [1] Kering travaille notamment sur les axes suivants afin de sécuriser ses approvisionnements à long terme et soutenir les solutions fondées sur la nature... (Source: texte original, page 5)
+* [2] L'entreprise a défini comme objectif d'éliminer les emballages en plastique à usage unique dans le secteur BtoC et BtoB jusqu'en 2025. (Source: texte original, page 7)

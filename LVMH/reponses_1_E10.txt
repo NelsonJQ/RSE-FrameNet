@@ -1,0 +1,7 @@
+Explication: LVMH, l'entreprise mère de Hermès, a mené un programme d'énergie renouvelable pour réduire son impact carbone dans les boutiques du Miami Design District. Le groupe a participé au programme d'énergie solaire "SolarTogether" de Florida Power & Light (FPL), qui vise à atteindre 100% d'énergie renouvelable. Selon la page 5.2.1 du document, la consommation d'énergie renouvelable est un axe majeur de la politique menée par LVMH pour réduire son impact carbone.
+
+Données extraites: proportionRenouvelables = 100% (aucune donnée spécifique n'est fournie sur la proportion de consommation d'énergie renouvelable par rapport à la consommation totale d'énergie)
+
+Answer context:
+
+* Page 5.2.1: "La recherche de l'efficacité énergétique et le recours aux énergies renouvelables sont des axes majeurs de la politique menée par LVMH pour réduire son impact carbone dans les boutiques du Miami Design District."

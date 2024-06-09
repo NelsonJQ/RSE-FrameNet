@@ -1,0 +1,13 @@
+Explication = 
+
+Kering ne fournit pas directement les informations sur la quantité de plastique à usage unique consommée au cours de la période de reporting. Cependant, nous pouvons tirer des informations importantes du document d'enregistrement universel 2023 de Kering.
+
+Selon le document, Kering s'efforce de réduire l'utilisation de plastiques à usage unique dans sa chaîne de valeur. Le groupe a mis en place des mesures pour améliorer la gestion des emballages et des déchets (5.5.4). Il est également mentionné que Kering contribue à l'atténuation du changement climatique via des solutions fondées sur la nature, ce qui inclut probablement une réduction de l'utilisation de plastiques à usage unique.
+
+Donnes_extraites = {'tonsSingleUsePlastics': ?}
+
+Comme nous n'avons pas trouvé de quantité spécifique dans le document, nous devrons estimer cette valeur en utilisant des informations supplémentaires ou en faisant une demande directe à Kering.
+
+Answer_context = [citations littérales de la source que vous avez utilisées pour répondre, citation2, citation3]
+
+Exemple : Explication = 'Kering a mis en place des mesures pour améliorer la gestion des emballages et des déchets.' Donnes_extraites = {'tonsSingleUsePlastics': ?} Answer_context = [5.5.4]

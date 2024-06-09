@@ -1,0 +1,5 @@
+Explication = Kering a élaboré une politique environnementale concernant l'utilisation d'emballages, notamment pour réduire la quantité de plastique à usage unique. La Maison s'efforce de s'approvisionner de la façon la plus durable possible en matière recyclée ou biosourcée et certifiée, ainsi que de conduire des projets visant à réduire l'utilisation d'emballage tout en garantissant une protection optimale des produits manufacturés.
+
+Données_extraites = ("politiqueEnvironmentale": "Oui")
+
+Answer_context = [Citation: Kering et ses Maisons s'efforcent de s'approvisionner de la façon la plus durable possible en matière recyclée ou biosourcée et certifiée mais également de conduire des projets visant à réduire l'utilisation d'emballage tout en garantissant une protection optimale des produits manufacturés.]

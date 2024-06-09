@@ -1,0 +1,5 @@
+Explication = Kering a élaboré des politiques sur l'environnement, notamment la Stratégie d'optimisation Pierre angulaire (EP&L) qui permet de prioriser les projets de développement durable du Groupe et d'orienter les choix quotidiens des décideurs pour réduire l'impact environnemental de Kering. De plus, le groupe a mis en place un réseau de 400 ambassadeurs dans les magasins de Balenciaga pour réduire l'impact des sites de vente et mieux sensibiliser sur le sujet en interne.
+
+Données_extraites = ("politiqueEnvironmentale": "Oui, compris dans une politique plus large ou en tant que politique autonome")
+
+Answer_context = [La page 225 du document d'enregistrement universel 2023 de Kering]

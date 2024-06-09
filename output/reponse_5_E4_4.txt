@@ -1,0 +1,7 @@
+Explication = Kering évalue les progrès accomplis dans la prévention et l'atténuation des risques associés aux questions environnementales suivantes, notamment les forêts et la biodiversité, en prenant des mesures concrètes. Selon la page 5, le Groupe utilise un plan d’actions dédié à l’atteinte de l’objectif du Groupe d’égalité de salaire entre les hommes et les femmes, ce qui montre une attention particulière au bien-être des collaboratrices.
+
+Données extraites = ("evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)")
+
+Answer_context = [Citations littérales de la source]
+
+Note: Le texte indique que Kering a mis en place un plan d’actions pour atteindre l’objectif de l’égalité de salaire entre les hommes et les femmes, ce qui montre une attention particulière au bien-être des collaboratrices. De plus, le Groupe a obtenu la certification Égalité des Genres pour son activité en France, ce qui montre que Kering évalue ses progrès dans la prévention et l'atténuation des risques associés à ces questions environnementales.
