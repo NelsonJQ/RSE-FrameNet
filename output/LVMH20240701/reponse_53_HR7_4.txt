@@ -1,0 +1,2 @@
+ ('responseHumanRightsIncident': 'Impact négatif OUI mais aucun recours de réponse',)
+Answer_Justification: 'Selon la description fournie, il y a une condition liée à la performance du groupe LVMH pour l'attribution définitive des actions gratuites en 2026. Cependant, rien n'indique que des mesures ont été prises ou sont prévues pour répondre aux atteintes potentielles aux droits de l'homme liées à la performance du groupe LVMH ou de ses filiales.'

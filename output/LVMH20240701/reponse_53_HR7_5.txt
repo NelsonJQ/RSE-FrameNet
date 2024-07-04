@@ -1,0 +1,1 @@
+ [('responseHumanRightsIncident': "Impact négatif NON, then recours de réponse non nécessaire"), ('Answer_Justification', 'The text provided does not indicate any negative impact on human rights or a need for recourse. It mainly outlines the compensation and benefits awarded to the company’s directors and controlled societies.')]

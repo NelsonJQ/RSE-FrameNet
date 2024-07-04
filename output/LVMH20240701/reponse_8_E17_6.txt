@@ -1,0 +1,1 @@
+ [('hectaresUnderRestoration': 0.0)], Answer\_Justification: 'Aucune information spécifique n'a été fournie dans la liste concernant des projets liés à la restauration de l'écosystème, au reboisement et/ou à la protection des forêts et autres écosystèmes par les entreprises mentionnées.'

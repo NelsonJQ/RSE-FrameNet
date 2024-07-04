@@ -1,0 +1,4 @@
+ ["Examiner les problèmes sur une base ad hoc": FALSE,
+"Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (uniquement programmes internes)": TRUE,
+"Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)": TRUE]
+Answer_Justification: 'Selon la page 108, l'entreprise a fixé des objectifs climat alignés avec l'Accord de Paris, suit les principaux résultats climat annuels, et fournit des détails sur ses émissions directes et indirectes par année. De plus, l'entreprise participe à des initiatives multipartites telles que le CDP et la RRSE, ce qui indique qu'elle suit des objectifs et des performances établis par des tiers.'

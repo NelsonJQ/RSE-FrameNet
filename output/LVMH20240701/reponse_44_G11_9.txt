@@ -1,0 +1,1 @@
+ [("BoardMembersPercentage": 75), "Answer_Justification": "The charter of the Comité d’éthique et du développement durable specifies that three out of four members are independent, which means that at least 75% of the committee members are independent."]

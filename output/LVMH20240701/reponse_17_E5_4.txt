@@ -1,0 +1,3 @@
+ [
+('fournirSolutionImpact': 'Aucun recours fourni/activé'), Answer_Justification: 'Le texte ne mentionne pas que l’entreprise ait fourni ou activé un recours en réponse à la réduction des émissions de CO2 et à l’augmentation de l’utilisation d’énergies renouvelables. Les progrès en matière d’émissions de CO2 et d’énergies renouvelables semblent être des initiatives volontaires prises par l’entreprise pour améliorer sa performance environnementale, sans qu’il y ait de préjudice spécifique ou de recours associés.'
+]

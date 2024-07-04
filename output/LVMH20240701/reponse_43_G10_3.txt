@@ -1,0 +1,1 @@
+ ["ExecutivePay" : TRUE], Answer_Justification: 'Page 73, section "Éthique et responsabilité", mentionne des objectifs pour lier la performance en matière de durabilité à la rémunération des cadres, ce qui indique que l'entreprise a établi un lien entre la rémunération des dirigeants et les performances environnementales.'

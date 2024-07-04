@@ -1,0 +1,8 @@
+ [("Aucun engagement sur ce sujet": FALSE,
+"Mieux comprendre les risques / impacts en question": TRUE,
+"Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question": TRUE,
+"Convenir d'un moyen de prévenir / atténuer les risques / impacts en question": FALSE,
+"Évaluer les progrès réalisés dans la prévention / atténuation des risques / impacts en question": FALSE,
+"Collaborer à la prévention / atténuation des risques / impacts en question": TRUE]
+
+Answer_Justification: Le texte indique que le Groupe et ses Maisons participent activement à plusieurs initiatives pour garantir l'approvisionnement responsable en or et en pierres de couleur, telles que les engagements envers le Responsible Jewellery Council (RJC), le Coloured Gemstones Working Group (CGWG) et la Responsible Beauty Initiative. Ces initiatives visent à promouvoir les meilleures pratiques environnementales et sociales dans leurs chaînes d'approvisionnement, en développant des outils et des plans d'action pour identifier et atténuer les risques liés aux droits humains. Cependant, il n'est pas spécifié s'il existe déjà un accord ou une évaluation des progrès réalisés dans la prévention/atténuation de ces risques.

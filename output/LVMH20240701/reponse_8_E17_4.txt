@@ -1,0 +1,1 @@
+ [('hectaresUnderRestoration': 0.0)], Answer_Justification: 'Les données fournies ne contiennent pas les informations sur les projets liés à la restauration de l'écosystème, au reboisement et/ou à la protection des forêts et autres écosystèmes que la Société a soutenus ou mis en œuvre ou prévoit de mettre en œuvre dans deux ans.'

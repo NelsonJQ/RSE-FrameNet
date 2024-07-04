@@ -1,0 +1,2 @@
+ ['responseHumanRightsIncident': 'Impact négatif NON, then recours de réponse non necessary'], Answer_Justification:
+'Le texte ne mentionne aucun impact négatif sur les droits humains lié à l'attribution d'actions gratuites par LVMH ou ses filiales. Il précise uniquement les conditions et échéances de ces attributions, sans faire référence à des violations potentielles des droits humains.'

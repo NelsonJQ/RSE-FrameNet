@@ -1,0 +1,1 @@
+ [('hectaresUnderRestoration': 0)], Answer\_Justification: 'Les informations fournies dans le document d’enregistrement universel 2023 du groupe LVMH ne mentionnent pas de projets liés à la restauration de l'écosystème, au reboisement et/ou à la protection des forêts et autres écosystèmes en cours ou prévus dans les deux prochaines années.'

@@ -1,0 +1,1 @@
+ [('waterWithdrawalMegaLiters', nan), ('waterConsumptionMegaLiters', nan)], Answer_Justification: 'The provided financial statements do not include any information related to water withdrawal or consumption in millions of liters.'

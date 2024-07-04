@@ -1,0 +1,3 @@
+ Based on the information provided, there is no data related to water withdrawal or consumption in the given text about LVMH's financial statements. Here is my answer:
+
+[('waterWithdrawalMegaLiters': None, 'waterConsumptionMegaLiters': None)], Answer_Justification: 'The text does not provide any information related to water withdrawal or consumption.'

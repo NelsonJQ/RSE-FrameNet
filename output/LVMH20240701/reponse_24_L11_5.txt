@@ -1,0 +1,1 @@
+ ['responseLabourRightIncident': "Impact négatif NON, then recours de réponse non necessary"], Answer_Justification: 'Based on the provided document, there is no mention of any negative impact on labor rights nor any recourse of response related to labor rights issues in the company.’s activities in the context of ethical considerations and compliance.'

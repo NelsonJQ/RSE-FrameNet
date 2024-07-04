@@ -1,0 +1,1 @@
+ ('responseHumanRightsIncident': 'Impact négatif NO, then recours de réponse non nécessaire'), Answer_Justification: 'The document provided does not indicate any human rights incidents or impacts related to LVMH.’

@@ -1,0 +1,1 @@
+ ['responseLabourRightIncident': "Impact négatif NON, then recours de réponse non necessary"], Answer_Justification: 'Le texte ne mentionne pas d'impact négatif sur les droits du travail.'

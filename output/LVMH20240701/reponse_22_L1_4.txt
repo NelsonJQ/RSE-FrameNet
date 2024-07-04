@@ -1,0 +1,1 @@
+ ('engagementLabourRights': "Oui, compris dans une politique plus large"), Answer_Justification: 'Selon la page 52 du document d’enregistrement universel 2023, LVMH a adopté en 2001 une Charte Environnement qui inclut un principe de responsabilité sociale et environnementale dans le recrutement.'

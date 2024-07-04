@@ -1,0 +1,1 @@
+ ['cubicMetersWaterConsumption': nan], Answer_Justification: 'Le document fourni ne contient pas les données sur la consommation d'eau du Groupe LVMH.'

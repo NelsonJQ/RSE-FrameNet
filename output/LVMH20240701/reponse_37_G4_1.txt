@@ -1,0 +1,3 @@
+ Based on the document provided, it appears that there is no specific individual or role dedicated to sustainability and related matters within LVMH. However, under section 1.4.3, a commissaire aux comptes (auditor) responsible for certifying information related to sustainability has been nominated for the annual meeting in 2024.
+
+Answer: [("SustainabilityPersonInCharge": "Personne non spécifiquement responsable de ce sujet")], Answer_Justification: 'Based on the provided document, there is no specific person responsible for sustainability matters within LVMH.'

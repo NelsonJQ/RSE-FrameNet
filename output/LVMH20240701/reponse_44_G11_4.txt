@@ -1,0 +1,1 @@
+ ["BoardMembersPercentage": 64], Answer\_Justification: "Neuf administrateurs sur quatorze sont considérés comme indépendants et libres d'intérêts à l'égard de la Société, représentant 64% des membres du Conseil d'administration."

@@ -1,0 +1,5 @@
+ [
+["Examiner les problèmes sur une base ad hoc": FALSE, "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (uniquement programmes internes)": TRUE, "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)": FALSE]
+, 
+"LVMH a mis en place des programmes et outils de formation pour accompagner et accélérer le développement de carrière des femmes à tous les niveaux. Les initiatives telles qu'EllesVMH Mentoring & Coaching à la LVMH House, Futur’Elles en Asie-Pacifique, EllesVMH Beyond Women’s Career en Espagne et Inspiring Women Leaders en Italie sont spécifiquement déployées pour promouvoir l'égalité des sexes. De plus, LVMH a obtenu 93,3 points sur 100 à l'Index de l'égalité professionnelle du gouvernement français en 2023. Ces programmes sont suivis annuellement et les progrès sont évalués. Cependant, il n'a pas été précisé si des objectifs ont été fixés en collaboration avec des initiatives multipartites ou des tiers."
+]

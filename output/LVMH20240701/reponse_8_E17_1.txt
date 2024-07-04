@@ -1,0 +1,1 @@
+ [('hectaresUnderRestoration': 0)], Answer_Justification: 'Based on the provided document, there is no information about restoration of ecosystems, reforestation or protection of forests and other ecosystems that the organization has supported, implemented or plans to implement within two years.'

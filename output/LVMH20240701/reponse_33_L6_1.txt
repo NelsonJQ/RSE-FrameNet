@@ -1,0 +1,1 @@
+ ["collectiveBargaining": FALSE], Answer_Justification: "Le document ne mentionne pas explicitement la négociation collective des rémunérations et avantages pour les mandataires sociaux non dirigeants de LVMH SE."

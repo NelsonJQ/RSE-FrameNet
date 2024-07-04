@@ -1,0 +1,1 @@
+ ["FrameworksReports" : FALSE], Answer_Justification: 'Le texte ne fournit pas suffisamment d'informations pour répondre à la question. Il mentionne des titres mis en équivalence dans le compte de résultat consolidé, mais il n'y a pas de préciision sur les charges opérationnels associés à ces titres.'

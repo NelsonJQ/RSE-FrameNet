@@ -1,0 +1,1 @@
+ ["FrameworksReports": TRUE], Answer_Justification: 'The document contains information about the number of annulled shares and the compensation paid to the executive officer, which are elements required by the corporate governance reporting framework.'

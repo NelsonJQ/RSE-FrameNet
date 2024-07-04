@@ -1,0 +1,1 @@
+ ["FrameworksReports" : FALSE, Answer_Justification: "Aucun des documents fournis ne contient une comparaison directe de la situation financière et du résultat des opérations du Groupe entre les exercices 2021 et 2020 présentée sous forme de tableau ou de rapport."]]

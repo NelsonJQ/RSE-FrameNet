@@ -1,0 +1,1 @@
+ ["RightsTraining": FALSE], Answer\_Justification: 'The information presented in the document is related to the financial policy and results of a company, with no direct mention or implication of land rights issues or training programs.'

@@ -1,0 +1,1 @@
+ ["CorruptionTraining": False, "Answer_Justification": "Il n'y a aucune mention explicite dans le document fourni concernant la formation ou l'entraînement spécifique sur la corruption pour les employés de LVMH."]

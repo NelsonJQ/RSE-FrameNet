@@ -1,0 +1,5 @@
+ Based on the information provided, there is no specific data about water withdrawal or consumption in megaliters that can be directly extracted from the table or the additional context. However, we can infer some general facts based on the definitions of water withdrawal and consumption.
+
+The text discusses various aspects related to a sustainability program for leather and textile supply chains, including targets for using certified suppliers and those who analyze their wastewater. While this information does not directly provide numerical data on water usage, it can be inferred that implementing these measures may lead to more efficient water use over time.
+
+Answer: [('waterWithdrawalMegaLiters': None, 'waterConsumptionMegaLiters': None)], Answer_Justification: "The provided text does not contain specific numerical values for water withdrawal or consumption in megaliters related to the discussed sustainability program."

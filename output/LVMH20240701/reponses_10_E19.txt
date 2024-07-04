@@ -1,0 +1,1 @@
+ ['tonsWaste': 0], Answer_Justification: 'Based on the provided document, there is no information about the company’s waste generation or management.'

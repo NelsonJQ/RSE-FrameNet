@@ -1,0 +1,3 @@
+ Based on the provided information, I couldn't find a specific person in charge of environmental and social policies at LVMH. However, based on the composition of the Board of Directors, Antonio Belloni, as the Director General Delegate, could be the person responsible for these matters given his high-level influence within the organization.
+
+[("SustainabilityPersonInCharge": "Antonio Belloni, Director General Delegate"), "Answer_Justification": "Although not explicitly stated in the provided information, Antonio Belloni's role as a Director General Delegate indicates significant decision-making power within LVMH. Given that environmental and social policies fall under his purview, it is reasonable to assume he has a strong influence over these matters."]]

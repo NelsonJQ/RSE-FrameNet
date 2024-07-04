@@ -1,0 +1,5 @@
+ [
+("preventionImpact": "Renforcer les capacités des relations pertinentes, telles que fournisseurs et parties prenantes, pour prévenir ou atténuer les impacts environnementaux"),
+("preventionImpact": "Action collective avec des homologues ou d'autres parties prenantes pour résoudre les problèmes liés au changement climatique")
+]
+Answer_Justification: Le rôle de l'administrateur consiste à s'assurer que la société LVMH atteint ses objectifs environnementaux et sociaux. Les administrateurs peuvent travailler sur des initiatives visant à renforcer les capacités des relations pertinentes, telles que les fournisseurs et autres parties prenantes, pour prévenir ou atténuer les impacts environnementaux négatifs. De plus, ils peuvent collaborer avec des homologues ou d'autres parties prenantes pour résoudre les problèmes liés au changement climatique. Ces initiatives sont conformes à la description de poste et aux responsabilités de l'administrateur en matière de durabilité environnementale.

@@ -1,0 +1,18 @@
+ [("preventionImpact": "Renforcer les capacités des relations pertinentes (par exemple, fournisseurs et organismes gouvernementaux)"),
+("Answer_Justification", "Bernard Arnault, Delphine Arnault, Antoine Arnault et Alexandre Arnault sont tous membres du conseil d'administration de LVMH. Ils ont tous un rôle dans le renforcement des capacités des relations pertinentes de l'entreprise en matière de RSE et d'enjeux climatiques, comme en témoigne leur engagement dans des initiatives telles que le Fashion Pact et la We Act for Good Foundation. De plus, LVMH collabore avec des organismes gouvernementaux pour promouvoir la durabilité dans l'industrie du luxe.")
+],
+[("preventionImpact": "Réalisation d'un processus d'audit et / ou d'un plan de mesures correctives"),
+("Answer_Justification", "LVMH a mis en place un processus d'audit interne pour s'assurer que ses fournisseurs respectent les normes environnementales et sociales. L'entreprise dispose également d'un plan de mesures correctives pour remédier aux lacunes identifiées lors des audits.")
+],
+[("preventionImpact": "Action collective avec des homologues ou d'autres parties prenantes"),
+("Answer_Justification", "LVMH collabore avec d'autres entreprises du secteur du luxe au sein de la Fashion Pact pour lutter contre le changement climatique et promouvoir la durabilité. L'entreprise travaille également avec des organisations telles que la Sustainable Apparel Coalition et le Leather Working Group pour améliorer les pratiques environnementales dans l'industrie.")
+],
+[("preventionImpact": "Collaboration avec des organismes gouvernementaux ou réglementaires"),
+("Answer_Justification", "LVMH travaille en étroite collaboration avec des organismes gouvernementaux tels que le ministère français de la Transition écologique et solidaire pour promouvoir la durabilité dans l'industrie du luxe. L'entreprise participe également à des forums internationaux sur le commerce, les technologies et d'autres questions pertinentes.")
+],
+[("preventionImpact": "Autre"),
+("Answer_Justification", "LVMH a investi dans des initiatives de développement durable telles que l'agriculture régénérative, la gestion responsable de l'eau et la réduction des déchets. L'entreprise s'est également engagée à atteindre zéro émission nette de carbone d'ici 2050.")
+],
+[("preventionImpact": "Aucune action pendant la période de reporting"),
+("Answer_Justification", "Il n'y a pas d'informations disponibles sur les actions spécifiques prises par LVMH en matière de RSE et d'enjeux climatiques au cours de la période de rapport.")
+]

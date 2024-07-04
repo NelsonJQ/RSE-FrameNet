@@ -1,0 +1,1 @@
+ [('PlacementFinancialPerEuro': 0.65, ‘NormalisationBase’ : 1000000), Answer_Justification: "The financial placements for the year 2023 is (3 490) millions of euros, the average number of shares for the year was 500 056 586 and the net financial debt is 10 746 millions of euros. Therefore, PlacementFinancialPerEuro = -(3 490)/10 746 \* 1000000 = 0.65."]]

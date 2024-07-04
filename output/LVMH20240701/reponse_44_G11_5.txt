@@ -1,0 +1,1 @@
+ ["BoardMembersPercentage": 17], Answer\_Justification: 'Sur un total de 6 membres du conseil d’administration, seulement 1 est identifié comme femme (Delphine Arnault). Par conséquent, les femmes représentent 17% des membres du conseil d’administration.'

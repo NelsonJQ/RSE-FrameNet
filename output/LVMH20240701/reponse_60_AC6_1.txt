@@ -1,0 +1,1 @@
+ ["ActionOnCorruption": FALSE], Answer_Justification: "Le texte fourni ne mentionne pas d'activités liées à la corruption ou aux pots-de-vin, il traite uniquement de l'évaluation des actifs immobilisés d'une entreprise et des risques associés à cette évaluation."

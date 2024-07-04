@@ -1,0 +1,5 @@
+ [
+("evaluationPrevention": "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (uniquement programmes internes)"), Answer_Justification: "Selon la partie 3.2.2 de l'extrait, deux étapes sont mises en place pour atteindre l'objectif 2030 de réduction de 30 % des prélèvements dans la chaîne de valeur du Groupe LVMH. Plusieurs plans d'action sont activés tant au sein des opérations LVMH que de la chaîne de valeur du Groupe pour atteindre cet objectif. Cela indique une évaluation continue et un suivi des progrès réalisés par les programmes internes de l'entreprise."
+], [
+("evaluationPrevention": "Pas de suivi des progrès"), Answer_Justification: "Dans le cas de l'évaluation des titres de participation à l'actif (page 339), aucun suivi spécifique ou plan d'action n'est mentionné pour atténuer les risques liés aux titres. Il semble qu'il n'y ait pas de suivi des progrès dans ce contexte."
+]

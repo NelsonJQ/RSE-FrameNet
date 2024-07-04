@@ -1,0 +1,1 @@
+ ("Whistleblowing" : "Non mentionné", Answer\_Justification: "Le sujet de la dénonciation des actes répréhensibles (whistleblowing) n'est pas abordé dans les informations fournies.")

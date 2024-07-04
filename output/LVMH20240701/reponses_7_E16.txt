@@ -1,0 +1,1 @@
+ ['sitesEcosystemsChanged' : 0], Answer\_Justification: 'Aucune information sur les changements d'écosystèmes ou la déforestation sur les sites contrôlés ou gérés par l'entreprise n'a été fournie dans le rapport financier.'

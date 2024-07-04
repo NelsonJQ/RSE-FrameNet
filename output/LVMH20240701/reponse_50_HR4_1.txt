@@ -1,0 +1,2 @@
+ ["RightsImpactPrevention": TRUE,
+Answer_Justification: "LVMH has established a charter on relations with models and a health and safety charter, demonstrating a commitment to the dignity, health, and well-being of those involved in their operations. They have also created a website for mannequins with best practices and advice, and have committed to developing a culture of 'zero accident.' These actions show that LVMH is taking steps to prevent and address potential negative impacts on human rights within their operations."](%)

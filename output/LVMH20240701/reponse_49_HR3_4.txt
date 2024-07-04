@@ -1,0 +1,8 @@
+ [("Aucun engagement sur ce sujet": FALSE,
+"Mieux comprendre les risques / impacts en question": TRUE,
+"Discuter des moyens potentiels de prévenir ou d'atténuer les risques / impacts en question": TRUE,
+"Convenir d'un moyen de prévenir / atténuer les risques / impacts en question": FALSE,
+"Évaluer les progrès réalisés dans la prévention / atténuation des risques / impacts en question": FALSE,
+"Collaborer à la prévention / atténuation des risques / impacts en question": TRUE]
+
+Answer_Justification: Les engagements de LVMH en matière environnementale et sociale comprennent des initiatives telles qu'un forum de parties prenantes pour écouter les besoins et attentes en soutien aux ambitions environnementales, la priorisation de l'approvisionnement local et des modes de transport durables, ainsi que le programme Green IT visant à réduire l'empreinte carbone de l'usage informatique. Ces engagements démontrent une prise de conscience des risques et impacts environnementaux et sociaux, et une volonté de discuter et chercher des moyens potentiels d'atténuation. Cependant, il n'y a pas d'indication sur la page fournie que LVMH ait convenu de méthodes spécifiques pour prévenir ou atténuer ces risques/impacts, ou qu'il y ait une évaluation des progrès réalisés dans ce domaine. De plus, il n'est pas précisé s'il existe une collaboration avec d'autres parties prenantes pour prévenir/atténuer les risques/impacts en question.

@@ -1,0 +1,1 @@
+ ['resultNet': (13151.6, 9608.6)], Answer_Justification: 'Le résultat net pour l'année 2023 est de 13 151.6 millions d'euros et pour l'année 2022 est de 9 608.6 millions d'euros. Ces chiffres sont disponibles dans le tableau RÉSULTAT FINANCIER sur la page 323 du document d'enregistrement universel 2023 de LVMH Moët Hennessy Louis Vuitton.'

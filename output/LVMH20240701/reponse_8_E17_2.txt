@@ -1,0 +1,1 @@
+ [('hectaresUnderRestoration': 150.0), 'Answer\_Justification': "Sur la page 65, il est indiqué que LVMH s'engage dans des projets de reboisement et de restauration des écosystèmes, par exemple avec Belmond hôtels qui ont planté plus de 100 000 arbres en Amazonie pour restaurer 150 hectares de terres dégradées."]

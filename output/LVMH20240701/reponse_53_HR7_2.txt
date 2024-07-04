@@ -1,0 +1,2 @@
+ ['responseHumanRightsIncident': 'Impact négatif NON, then recours de réponse non nécessaire', Answer_Justification: 'Le texte fourni ne mentionne pas d’incidents relatifs aux droits de l’homme ou à la durabilité liés à LVMH.'},
+{'responseHumanRightsIncident': 'Impact négatif NON, then recours de réponse non nécessaire', Answer_Justification: 'Le texte fourni décrit les plans d’attribution d’actions de performance de LVMH pour ses mandataires sociaux, mais il ne mentionne pas d’incidents relatifs aux droits de l’homme ou à la durabilité.')}

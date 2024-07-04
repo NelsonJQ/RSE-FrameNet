@@ -1,0 +1,1 @@
+ ["collectiveBargaining": TRUE], Answer_Justification: "Sur la page 67, dans la section 'Informations sociales', il est indiqué que les sujets de négociation collective incluent les conditions de travail telles que les salaires et les heures supplémentaires. Cela implique que des négociations collectives ont lieu dans l'entreprise."

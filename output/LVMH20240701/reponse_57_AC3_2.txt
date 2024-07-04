@@ -1,0 +1,1 @@
+ ["CorruptionTraining": TRUE], Answer_Justification: 'Selon la page 61 du document, les acheteurs des Maisons sont formés à la lutte anticorruption dans le cadre de modules de formation dédiés aux risques liés à cette fonction.'

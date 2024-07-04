@@ -1,0 +1,1 @@
+ ["boardEngagement": TRUE, Answer\_Justification: "Selon la page 98 du rapport, le conseil d'administration s'est engagé dans des initiatives environnementales et de durabilité telles que l'accueil de la conférence annuelle ZDHC et la mise en place de plans de prévention pour les émissions de COV."]

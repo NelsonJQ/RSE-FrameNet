@@ -1,0 +1,1 @@
+ ["CorruptionIncident" : [], Answer_Justification: 'Based on the provided text, there is no information about any corruption incidents for the taux euro receiver. Therefore, the list of tuples remains empty. The text only provides information about performance-based actions and some conditions related to them.']

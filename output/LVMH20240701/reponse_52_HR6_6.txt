@@ -1,0 +1,3 @@
+ [
+("Examiner les problèmes sur une base ad hoc": true, "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (uniquement programmes internes)": false, "Fixation de cibles / objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)": true),
+Answer_Justification: 'Selon le texte fourni, l’entreprise examine les problèmes sur une base ad hoc (mention de la tenue d’un événement le 14 décembre 2

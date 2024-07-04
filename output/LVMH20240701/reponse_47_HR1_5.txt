@@ -1,0 +1,1 @@
+ [("SignificantRightsTopics": TRUE)], Answer_Justification: "Le document mentionne que LVMH s'engage dans la préservation des écosystèmes et a pour objectif de couvrir 5 millions d'hectares en 2030, ce qui indique un impact potentiellement significatif sur les droits des communautés locales et leur accès aux ressources naturelles."

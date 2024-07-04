@@ -1,0 +1,2 @@
+ ("CorruptionMonitoring" : "Oui, grâce à des audits internes et externes", 
+Answer_Justification : 'Selon la page 95, les résultats des audits internes et externes sont utilisés pour examiner les politiques et procédures de lutte contre la corruption du groupe.')

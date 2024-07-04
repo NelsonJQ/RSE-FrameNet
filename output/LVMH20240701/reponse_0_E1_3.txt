@@ -1,0 +1,2 @@
+ [("politiqueEnvironnementale": "Non, mais une politique environnementale est incluse dans notre code d'éthique et de conduite des affaires"),
+"Answer_Justification": "Selon les informations fournies, chaque entité répertoriée appartient à Moët Hennessy ou l'un de ses affiliés. Le site web de Moët Hennessy mentionne explicitement leur engagement en faveur du développement durable et la mise en œuvre d'une politique environnementale au niveau du groupe."](https://www.moethennessy.com/sustainability/)

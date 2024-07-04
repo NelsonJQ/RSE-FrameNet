@@ -1,0 +1,2 @@
+ ["boardEngagement": TRUE,
+Answer_Justification: "Le Règlement intérieur du Comité de la gouvernance et des rémunérations prévoit que le Directeur général et le Directeur général délégué peuvent participer aux travaux du comité consacrés aux nominations et renouvellements de mandats. De plus, le Comité d’éthique et du développement durable a pour mission de traiter les questions sociales, environnementales et climatiques."]]

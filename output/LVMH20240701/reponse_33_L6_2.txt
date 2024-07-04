@@ -1,0 +1,1 @@
+ ["collectiveBargaining": FALSE], Answer_Justification: 'Based on the provided documents, there is no information suggesting that the company negotiates work conditions with employee representatives or union.'

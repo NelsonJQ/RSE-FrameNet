@@ -1,0 +1,3 @@
+ Based on the provided document and the format of response, here is my answer:
+
+[('preventionImpact': 'Fixation de cibles/objectifs annuels, suivi des progrès au fil du temps (programmes internes et externes)')], Answer_Justification: 'The document states that LVMH has set climate objectives aligned with the Paris Agreement and aims to reduce emissions by 55% in its scope 3. These targets are reported to CDP and RRSE, indicating a commitment to external reporting and validation. Additionally, LVMH publishes annual climate results and has a carbon trajectory compatible with the Paris Agreement.'

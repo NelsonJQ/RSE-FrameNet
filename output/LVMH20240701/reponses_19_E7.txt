@@ -1,0 +1,1 @@
+ ['emissionsScope': 9607, 'unit': ' millions d’euros'], Answer\_Justification: 'D’après le bilan consolidé de l’entreprise, la dette financière nette s’élève à 9 607 millions d’euros en 2021 (page 240, Notes 2021).'

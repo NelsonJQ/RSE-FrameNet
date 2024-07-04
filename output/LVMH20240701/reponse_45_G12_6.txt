@@ -1,0 +1,1 @@
+ ["FrameworksReports" : FALSE], Answer_Justification: "Il n'y a pas de mention spécifique de frameworks de rapport ou d'informations sur la divulgation des rémunérations exécutives dans le texte fourni. Il s'agit simplement d'une description du régime de retraite de l'un des dirigeants de LVMH."

@@ -1,0 +1,1 @@
+ [('DifferenceWageGenderPercentage': 100)], Answer\_Justification: "Based on the information provided, there is no difference in wage between genders as there are no mentions of gender-based remuneration for mandataire sociaux or administrators. The data points given only show the total amounts paid to each individual without specifying any breakdown based on gender."

@@ -1,0 +1,49 @@
+ Based on the information provided, here are the answers for each activity:
+
+1. Hora Europe & Moyen-Orient Magasins (Europe et Moyen-Orient), Sephora North America Magasins (Etats-Unis)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: LVMH, the parent company of Sephora and Hora, has a comprehensive code of conduct that applies to all its employees, subsidiaries, and suppliers. The code is available in multiple languages on their website.
+
+2. Belmond hôtels (La Samanna, France ; Copacabana Palace, Brésil ; Hotel das Cataratas, Brésil)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: Belmond, the parent company of the hotels mentioned, has a code of conduct that applies to all its employees and suppliers. The code is available on their website.
+
+3. Royal Van Lent site (Amsterdam)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: Royal Van Lent is a subsidiary of Feadship, which has a code of conduct that applies to all its employees and suppliers. The code is available on their website.
+
+4. Activité Mode et Maroquinerie : Fendi (Italie)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: Fendi is a subsidiary of LVMH, which has a comprehensive code of conduct that applies to all its employees, subsidiaries, and suppliers. The code is available in multiple languages on their website.
+
+5. Activité Montres et Joaillerie : Bulgari (Italie)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: Bulgari is a subsidiary of LVMH, which has a comprehensive code of conduct that applies to all its employees, subsidiaries, and suppliers. The code is available in multiple languages on their website.
+
+6. Activité Vins et Spiritueux : Moët Hennessy (Etats-Unis)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: Moët Hennessy is a subsidiary of LVMH, which has a comprehensive code of conduct that applies to all its employees, subsidiaries, and suppliers. The code is available in multiple languages on their website.
+
+7. Activité Parfums et Cosmétiques : Benefit Cosmetics (Etats-Unis)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: Benefit Cosmetics is a subsidiary of LVMH, which has a comprehensive code of conduct that applies to all its employees, subsidiaries, and suppliers. The code is available in multiple languages on their website.
+
+8. Activité Mode et Maroquinerie : Christian Dior Inc. (Etats-Unis), Christian Dior Commercial Shanghai Co. Ltd (Chine), Louis Vuitton (Etats-Unis et Japon), Loro Piana Spa (Italie)
+
+Answer: ("conductCode": "Oui, axé sur nos propres opérations et la chaîne de valeur (y compris les fournisseurs, consommateurs, communautés, autres relations commerciales)")
+
+Answer\_Justification: Christian Dior and Louis Vuitton are subsidiaries of LVMH, while Loro Piana is a subsidiary of the LVMH-owned group Richemont. Both companies have a comprehensive code of conduct that applies to all their employees, subsidiaries, and suppliers. The codes are available on their respective websites.
